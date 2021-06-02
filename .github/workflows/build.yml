@@ -29,6 +29,7 @@ jobs:
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
       with:
+        token: ${{ secrets.TOKEN }}
         commit-message: Automated update
         committer: CodeforIATI bot <57559326+codeforIATIbot@users.noreply.github.com>
         author: CodeforIATI bot <57559326+codeforIATIbot@users.noreply.github.com>

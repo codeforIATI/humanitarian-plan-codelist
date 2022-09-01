@@ -36,7 +36,7 @@ for row in rows:
     row['Start date'] = to_date(row['Start date'])
     row['End date'] = to_date(row['End date'])
 
-with open(join('docs', 'humanitarian-plan.csv'), 'w') as f:
+with open(join('output', 'humanitarian-plan.csv'), 'w') as f:
     writer = csv.DictWriter(f, fieldnames=headers)
     writer.writeheader()
     writer.writerows(rows)

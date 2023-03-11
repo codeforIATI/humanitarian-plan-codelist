@@ -1,4 +1,5 @@
 from datetime import datetime
+import html
 from os.path import join
 from io import BytesIO
 import csv
@@ -17,7 +18,11 @@ download_id = r.json()[0].get('download_id')
 r = requests.get(f'https://fts.unocha.org/download/{download_id}/download')
 wb = openpyxl.load_workbook(BytesIO(r.content))
 sheet = wb['Export data']
-rows = [[cell.value for cell in row] for row in sheet.rows]
+rows = [
+    [
+        html.unescape(str(cell.value)) if cell.value is not None else None
+        for cell in row
+    ] for row in sheet.rows]
 
 # bin the first 2 rows
 rows = rows[2:]

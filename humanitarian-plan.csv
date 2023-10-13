@@ -223,7 +223,7 @@ Niger 2019,HNER19,Humanitarian response plan,2019,2019-01-01,2019-12-31
 Nigeria 2019,HNGA19,Humanitarian response plan,2019,2019-01-01,2019-12-31
 Occupied Palestinian Territory 2019 (part of 2018-2020 HRP),HPSE19,Humanitarian response plan,2019,2019-01-01,2019-12-30
 Pakistan 2019,OPAK19,Other,2019,2019-01-01,2019-12-31
-Regional Refugee and Migrant Response Plan (for Refugees and Migrants from Venezuela),OSAMR19,Other,2019,2019-01-01,2019-12-31
+Regional Refugee and Migrant Response Plan (for Refugees and Migrants from Venezuela),RSAMR19,Regional response plan,2019,2019-01-01,2019-12-31
 Somalia 2019,HSOM19,Humanitarian response plan,2019,2019-01-01,2019-12-31
 South Sudan 2019,HSSD19,Humanitarian response plan,2019,2019-01-01,2019-12-31
 Sudan 2019,HSDN19,Humanitarian response plan,2019,2019-01-01,2019-12-31
@@ -278,7 +278,7 @@ Dominica Flash Appeal 2017,FDMA17,Flash appeal,2017,2017-09-28,2017-12-29
 DPR Korea Needs and Priorities 2017,OPRK17,Other,2017,2017-01-01,2017-12-31
 Ethiopia 2017,HETH17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Haiti 2017,HHTI17,Humanitarian response plan,2017,2017-01-01,2017-12-31
-Hurricane Irma: Regional Response Plan for the Caribbean Region (Sep to Dec 2017),O17,Other,2017,2017-09-15,2017-12-31
+Hurricane Irma: Regional Response Plan for the Caribbean Region (Sep to Dec 2017),,Other,2017,2017-09-15,2017-12-31
 Iraq 2017,HIRQ17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Kenya Flash Appeal 2017,FKEN17,Flash appeal,2017,2017-02-10,2017-11-30
 Libya 2017,HLBY17,Humanitarian response plan,2017,2017-01-01,2017-12-31
@@ -301,7 +301,7 @@ Syria regional refugee and resilience plan (3RP) 2017,RSYR17,Regional response p
 Syrian Arab Republic Humanitarian Response Plan 2017,HSYR17b,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Ukraine Humanitarian Response Plan 2017,HUKR17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Yemen Humanitarian Response Plan 2017,HYEM17,Humanitarian response plan,2017,2017-01-01,2017-12-31
-2016 Europe Situation -Regional Refugee and Migrant Response,OEUR16,Other,2016,2016-01-01,2016-12-31
+2016 Europe Situation -Regional Refugee and Migrant Response,,Other,2016,2016-01-01,2016-12-31
 Afghanistan 2016,HAFG16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Afghanistan Flash Appeal: One million people on the move (September - December 2016),FAFG16,Flash appeal,2016,2016-09-01,2016-12-31
 Burkina Faso 2016,HBFA16,Humanitarian response plan,2016,2016-01-01,2016-12-31
@@ -362,7 +362,7 @@ Niger 2015,HNER15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Nigeria 2015,HNGA15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 occupied Palestinian territory 2015,HPSE15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Republic of South Sudan 2015,HSSD15,Humanitarian response plan,2015,2015-01-01,2015-12-31
-Sahel Regional 2015,HXSHL15,Humanitarian response plan,2015,2015-01-01,2015-12-31
+Sahel Regional 2015,,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Senegal 2015,HSEN15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Somalia 2015,HSOM15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 "South Sudan regional refugee response plan 2015 (Ethiopia, Kenya, Uganda components)",RXSSDREG15,Regional response plan,2015,2015-01-01,2015-12-31
@@ -378,7 +378,7 @@ Central African Republic 2014,HCAF14,Humanitarian response plan,2014,2014-01-01,
 Chad 2014,HTCD14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Democratic Republic of the Congo 2014,HCOD1415,Humanitarian response plan,2014,2014-01-01,2015-04-30
 Djibouti 2014,HDJI14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-"Ebola Virus Outbreak - Overview of Needs and Requirements (inter-agency plan for Guinea, Liberia, Sierra Leone, Region) - October 2014 - June 2015",OXEBOLA1415,Other,2014,2014-10-01,2015-06-30
+"Ebola Virus Outbreak - Overview of Needs and Requirements (inter-agency plan for Guinea, Liberia, Sierra Leone, Region) - October 2014 - June 2015",RGINLBRSLE1415,Regional response plan,2014,2014-10-01,2015-06-30
 Gambia 2014,HGMB14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Haiti Humanitarian Action Plan 2014,HHTI14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Iraq 2014,HIRQ14,Humanitarian response plan,2014,2014-04-01,2014-12-31
@@ -393,7 +393,7 @@ Philippines - Typhoon Haiyan Strategic Response Plan (November 2013 - October 20
 Philippines- Zamboanga crisis (October 2013-August 2014),HPHL1314a,Humanitarian response plan,2014,2013-10-01,2014-08-31
 Republic of Congo 2014,HCOG14,Humanitarian response plan,2014,2014-04-10,2014-12-31
 Republic of South Sudan - Crisis Response Plan 2014,HSSD14,Humanitarian response plan,2014,2014-01-01,2014-06-30
-Sahel Regional 2014,HXSHL14,Humanitarian response plan,2014,2014-01-01,2014-12-31
+Sahel Regional 2014,,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Senegal 2014,HSEN14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Somalia 2014,HSOM14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 "South Sudan Regional Refugee Response Plan (Ethiopia, Kenya, Sudan and Uganda) 2014",RXSSDREG14,Regional response plan,2014,2014-01-01,2014-12-31

@@ -1,61 +1,127 @@
 Plan name,Plan code,Plan type,Plan year,Start date,End date
-Afghanistan Humanitarian Response Plan 2024,HAFG24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Afghanistan Humanitarian Needs and Response Plan 2025,HAFG25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Afghanistan Situation Regional Refugee Response Plan 2025,RIRNPAK25,Regional response plan,2025,2025-01-01,2025-12-31
+Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2025,OBGD25,Other,2025,2025-01-01,2025-03-31
+Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Cameroon Humanitarian Response Plan 2025,HCMR25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Democratic Republic of the Congo Regional Refugee Response Plan 2025,RDRC_RRP25,Regional response plan,2025,2025-01-01,2025-12-31
+El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,HSLV25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,Flash appeal,2025,2025-01-01,2025-12-31
+Ethiopia Humanitarian Response Plan 2025,HETH25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,HGTM25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Honduras Necesidades Humanitarias y Plan de Respuesta 2025,HHND25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Lebanon Flash Appeal 2025,FLBN25,Flash appeal,2025,2025-01-01,2025-03-31
+Malawi Drought Response Flash Appeal 2025,FMWI25,Flash appeal,2025,2025-01-01,2025-06-01
+Mali Besoins Humanitaires et Plan de Réponse 2025,HMLI25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Mozambique Drought Flash Appeal 2025,FMOZ25,Flash appeal,2025,2025-01-01,2025-07-31
+Mozambique Humanitarian Needs and Response Plan 2025,HMOZ25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Myanmar Humanitarian Needs and Response Plan 2025,HMMR25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Niger Besoins Humanitaires et Plan de Réponse 2025,HNER25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Nigeria Humanitarian Needs and Response Plan 2025,HNGA25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,Other,2025,2025-01-01,2025-01-31
+Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2025,RRHOAY25,Regional response plan,2025,2025-01-01,2025-12-31
+Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,Regional response plan,2025,2025-01-01,2025-12-31
+République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Somalia Humanitarian Needs and Response Plan 2025,HSOM25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+South Sudan Humanitarian Needs and Response Plan 2025,HSSD25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+South Sudan Regional Refugee Response Plan 2025,RETHKENUGA25,Regional response plan,2025,2025-01-01,2025-12-31
+Sudan Emergency: Regional Refugee Response Plan 2025,RRSDN25,Regional response plan,2025,2025-01-01,2025-12-31
+Sudan Humanitarian Needs and Response Plan 2025,HSDN25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Syrian Arab Republic Humanitarian Response Plan 2025,HSYR25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2025,RSYR25,Regional response plan,2025,2025-01-01,2025-12-31
+Tchad Besoins Humanitaires et Plan de Réponse 2025,HTCD25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Ukraine Humanitarian Needs and Response Plan 2025,HUKR25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Ukraine Situation Regional Refugee Response Plan 2025,RUKRN25,Regional response plan,2025,2025-01-01,2025-12-31
+Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,RREG25,Regional response plan,2025,2025-01-01,2025-12-31
+Viet Nam Joint Response Plan for Typhoon Yagi and Floods 2025,OVNM25,Other,2025,2025-01-01,2025-06-30
+Yemen Humanitarian Needs and Response Plan 2025,HYEM25,Humanitarian response plan,2025,2025-01-01,2025-12-31
+Zambia Drought Flash Appeal 2025,FZMB25,Flash appeal,2025,2025-01-01,2025-05-31
+Zimbabwe Drought Flash Appeal 2025,FZWE25,Flash appeal,2025,2025-01-01,2025-06-01
+Afghanistan Humanitarian Needs and Response Plan 2024,HAFG24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Afghanistan Situation Regional Refugee Response Plan 2024,RAFG_RRP24,Regional response plan,2024,2024-01-01,2024-12-31
+Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,OBGD24,Other,2024,2024-06-01,2024-12-31
 Burkina Faso Plan de Réponse Humanitaire 2024,HBFA24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Burundi Plan de Réponse Inondations et Montée du Lac Tanganyika (Effets El-Niño) 2024,OBDI24,Other,2024,2024-03-01,2024-12-31
 Cameroon Humanitarian Response Plan 2024,HCMR24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Colombia Plan de Respuesta Humanitario 2024,HCOL24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Escalation of Hostilities in the OPT Flash Appeal 2023-2024,FPSE24,Flash appeal,2024,2024-01-01,2024-03-31
+Colombia Plan de Respuesta a Prioridades Comunitarias Colombia 2024 - 2025,HCOL24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Democratic Republic of the Congo Regional Refugee Response Plan 2024,RDRC_RRP24,Regional response plan,2024,2024-01-01,2024-12-31
+El Salvador Plan de Respuesta Humanitaria 2024,HSLV24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,Flash appeal,2024,2024-01-01,2024-12-31
 Ethiopia Humanitarian Response Plan 2024,HETH24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Guatemala Plan de Respuesta Humanitario 2024,HGTM24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Haiti Plan de Réponse Humanitaire 2024,HHTI24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Honduras Plan de Respuesta Humanitario 2024,HHND24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Libya Floods Flash Appeal 2024,FLBY24,Flash appeal,2024,2024-01-01,2024-03-31
-Madagascar Flash Appeal 2024,FMDG24,Flash appeal,2024,2024-01-01,2024-12-31
-Mali Plan de Réponse Humanitaire 2024,HMLI24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Mongolia Dzud Early Action and Response Plan 2024,OMNG2324,Other,2024,2023-12-01,2024-05-31
-Mozambique Humanitarian Response Plan 2024,HMOZ24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Myanmar Humanitarian Response Plan 2024,HMMR24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Niger Plan de Réponse Humanitaire 2024,HNER24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Regional Migrant Response Plan for the Horn of Africa and Yemen 2024,RRHOAY24,Regional response plan,2024,2024-01-01,2024-12-31
+Grenada Hurricane Beryl Flash Appeal 2024,FFA24,Flash appeal,2024,2024-07-03,2024-12-31
+Guatemala Plan de Respuesta Humanitaria 2024,HGTM24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Honduras Necesidades Humanitarias y Plan de Respuesta 2024,HHND24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Inter-Agency Emergency Appeal for the Influx from Lebanon to Syria 2024,OSYR24,Other,2024,2024-10-01,2024-12-31
+Lebanon Flash Appeal 2024,FLBN24,Flash appeal,2024,2024-10-01,2024-12-31
+Libya Flood Response Flash Appeal 2024,FLBY24,Flash appeal,2024,2024-01-01,2024-06-30
+Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2024,FMDG24,Flash appeal,2024,2024-01-01,2024-05-31
+Malawi Drought Response Flash Appeal 2024,FMWI24,Flash appeal,2024,2024-07-15,2024-12-31
+Mali Besoins Humanitaires et Plan de Réponse 2024,HMLI24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Mongolia Dzud Response Plan 2024,OMNG2324,Other,2024,2023-12-01,2024-05-31
+Mozambique Drought Flash Appeal 2024,FMOZ24,Flash appeal,2024,2024-08-01,2024-12-31
+Mozambique Humanitarian Needs and Response Plan 2024,HMOZ24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Myanmar Humanitarian Needs and Response Plan 2024,HMMR24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Nepal Humanitarian Needs and Priorities Floods Response Plan 2024,ONPL24,Other,2024,2024-10-07,2024-12-31
+Niger Besoins Humanitaires et Plan de Réponse 2024,HNER24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Nigeria Humanitarian Response Plan 2024,HNGA24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2024,OPHL24,Other,2024,2024-11-13,2024-12-31
+Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2024,RRHOAY24,Regional response plan,2024,2024-01-01,2024-12-31
+Rohingya Humanitarian Crisis Joint Response Plan 2024,RBGD24,Regional response plan,2024,2024-01-01,2024-12-31
 République Centrafricaine Plan de Réponse Humanitaire 2024,HCAF24,Humanitarian response plan,2024,2024-01-01,2024-12-31
 République Démocratique du Congo Plan de Réponse Humanitaire 2024,HCOD24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Somalia Humanitarian Response Plan 2024,HSOM24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-South Sudan Humanitarian Response Plan 2024,HSSD24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Sudan Humanitarian Response Plan 2024,HSDN24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Ukraine Humanitarian Response Plan 2024,HUKR24,Humanitarian response plan,2024,2024-01-01,2024-12-31
-Venezuela Plan de Respuesta Humanitario 2024,HVEN24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Saint Vincent and The Grenadines Hurricane Beryl Flash Appeal 2024,FVCT24,Flash appeal,2024,2024-07-03,2024-12-31
+Somalia Humanitarian Needs and Response Plan 2024,HSOM24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+South Sudan Humanitarian Needs and Response Plan 2024,HSSD24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+South Sudan Regional Refugee Response Plan 2024,RETHKENUGA24,Regional response plan,2024,2024-01-01,2024-12-31
+Sudan Emergency: Regional Refugee Response Plan 2024,RRSDN24,Regional response plan,2024,2024-01-01,2024-12-31
+Sudan Humanitarian Needs and Response Plan 2024,HSDN24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Syrian Arab Republic Humanitarian Response Plan 2024,HSYR24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2024,RSYR24,Regional response plan,2024,2024-01-01,2024-12-31
+Tchad Besoins Humanitaires et Plan de Réponse 2024,HTCD24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Ukraine Humanitarian Needs and Response Plan 2024,HUKR24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Ukraine Situation Regional Refugee Response Plan 2024,RUKRN24,Regional response plan,2024,2024-01-01,2024-12-31
+Venezuela Plan de Respuesta Humanitaria 2024,HVEN24,Humanitarian response plan,2024,2024-01-01,2024-12-31
 Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,RREG24,Regional response plan,2024,2024-01-01,2024-12-31
+Viet Nam  Joint Response Plan for Typhoon Yagi and Floods 2024,OVNM24,Other,2024,2024-09-27,2024-12-31
 Yemen Humanitarian Response Plan 2024,HYEM24,Humanitarian response plan,2024,2024-01-01,2024-12-31
+Zambia Drought Flash Appeal 2024,FZMB24,Flash appeal,2024,2024-05-01,2024-12-31
+Zimbabwe Drought Flash Appeal 2024,FZWE24,Flash appeal,2024,2024-05-01,2024-12-31
 Afghanistan Humanitarian Response Plan 2023,HAFG23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Afghanistan Situation Regional Refugee Response Plan 2023,RAFG23,Regional response plan,2023,2023-01-01,2023-12-31
 Burkina Faso Plan de Réponse Humanitaire 2023,HBFA23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Burundi Plan de Réponse Humanitaire 2023,HBDI23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Cameroon Humanitarian Response Plan 2023,HCMR23,Humanitarian response plan,2023,2023-01-01,2023-12-31
-Colombia Plan de Respuesta Humanitario 2023,HCOL23,Humanitarian response plan,2023,2023-01-01,2023-12-31
+Colombia Plan de Respuesta Humanitaria 2023,HCOL23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Democratic Republic of the Congo Regional Refugee Response Plan 2023,RDRCRRP23,Regional response plan,2023,2023-01-01,2023-12-31
-El Salvador Plan de Respuesta Humanitario 2023,HSLV23,Humanitarian response plan,2023,2023-01-01,2023-12-31
+El Salvador Plan de Respuesta Humanitaria 2023,HSLV23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,Flash appeal,2023,2023-10-01,2023-12-31
 Ethiopia Humanitarian Response Plan 2023,HETH23,Humanitarian response plan,2023,2023-01-01,2023-12-31
-Guatemala Plan de Respuesta Humanitario 2023,HGTM23,Humanitarian response plan,2023,2023-01-01,2023-12-31
-Haiti Plan de Réponse Humanitaire 2023,HHTI23,Humanitarian response plan,2023,2023-01-01,2023-12-31
-Honduras Plan de Respuesta Humanitario 2023,HHND23,Humanitarian response plan,2023,2023-01-01,2023-12-31
+Guatemala Plan de Respuesta Humanitaria 2023,HGTM23,Humanitarian response plan,2023,2023-01-01,2023-12-31
+Haïti Plan de Réponse Humanitaire 2023,HHTI23,Humanitarian response plan,2023,2023-01-01,2023-12-31
+Honduras Plan de Respuesta Humanitaria 2023,HHND23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Kenya Drought Response Plan 2023,FKEN23,Flash appeal,2023,2023-01-01,2023-12-31
 Lebanon Emergency Response Plan 2023,OLBN23,Other,2023,2023-01-01,2023-12-31
-Libya Floods Flash Appeal 2023,FLBY23,Flash appeal,2023,2023-09-14,2023-12-14
-Madagascar Flash Appeal 2023,FMDG23,Flash appeal,2023,2023-01-01,2023-12-31
+Libya Flood Response Flash Appeal 2023,FLBY23,Flash appeal,2023,2023-09-14,2023-12-31
+Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2023,FMDG23,Flash appeal,2023,2023-01-01,2023-12-31
 Malawi Cholera and Floods Flash Appeal 2023,FMWI23,Flash appeal,2023,2023-01-01,2023-12-31
 Mali Plan de Réponse Humanitaire 2023,HMLI23,Humanitarian response plan,2023,2023-01-01,2023-12-31
-MONGOLIA Early Action & Response Plan 2023,OMNG2223,Other,2023,2022-12-01,2023-05-31
-"Mozambique Cholera, Cyclone and Floods 2023",OMOZ23,Other,2023,2023-03-01,2023-09-30
+Mongolia Dzud Early Action and Response Plan 2023,OMNG2223,Other,2023,2022-12-01,2023-05-31
+"Mozambique Cyclone Freddy, Floods and Cholera Response Plan 2023",OMOZ23,Other,2023,2023-03-01,2023-09-30
 Mozambique Humanitarian Response Plan 2023,HMOZ23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Myanmar Humanitarian Response Plan 2023,HMMR23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Niger Plan de Réponse Humanitaire 2023,HNER23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Nigeria Humanitarian Response Plan 2023,HNGA23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,Humanitarian response plan,2023,2023-01-01,2023-09-30
 Pakistan Floods Response Plan 2023,OPAK23,Other,2023,2023-01-01,2023-05-31
-Regional Migrant Response Plan for the Horn of Africa and Yemen 2023,RDJIETHSOMYEM23,Regional response plan,2023,2023-01-01,2023-12-31
+Regional Migrant Response Plan for the Horn of Africa and Yemen 2023,RDJIETHSOM23,Regional response plan,2023,2023-01-01,2023-12-31
+Rohingya Humanitarian Crisis Joint Response Plan 2023,RBGD23,Regional response plan,2023,2023-01-01,2023-12-31
 République Centrafricaine Plan de Réponse Humanitaire 2023,HCAF23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 République Démocratique du Congo Plan de Réponse Humanitaire 2023,HCOD23,Humanitarian response plan,2023,2023-01-01,2023-12-31
-Rohingya Humanitarian Crisis Joint Response Plan 2023,RBGD23,Regional response plan,2023,2023-01-01,2023-12-31
 Somalia Humanitarian Response Plan 2023,HSOM23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 South Sudan Humanitarian Response Plan 2023,HSSD23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 South Sudan Regional Refugee Response Plan 2023,RETHKENUGA23,Regional response plan,2023,2023-01-01,2023-12-31
@@ -68,7 +134,7 @@ Tchad Plan de Réponse Humanitaire 2023,HTCD23,Humanitarian response plan,2023,2
 Türkiye Earthquake Flash Appeal 2023,FTUR23,Flash appeal,2023,2023-02-16,2023-05-31
 Ukraine Humanitarian Response Plan 2023,HUKR23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Ukraine Situation Regional Refugee Response Plan 2023,RUKRN23,Regional response plan,2023,2023-01-01,2023-12-31
-Venezuela Plan de Respuesta Humanitario 2023,HVEN23,Humanitarian response plan,2023,2023-01-01,2023-12-31
+Venezuela Plan de Respuesta Humanitaria 2023,HVEN23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,RREG23,Regional response plan,2023,2023-01-01,2023-12-31
 Yemen Humanitarian Response Plan 2023,HYEM23,Humanitarian response plan,2023,2023-01-01,2023-12-31
 Afghanistan Humanitarian Response Plan 2022,HAFG22,Humanitarian response plan,2022,2022-01-01,2022-12-31
@@ -76,20 +142,20 @@ Afghanistan Situation Regional Refugee Response Plan 2022,RAFG22,Regional respon
 Burkina Faso Plan de Réponse Humanitaire 2022,HBFA22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Burundi Plan de Réponse Humanitaire 2022,HBDI22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Cameroon Humanitarian Response Plan 2022,HCMR22,Humanitarian response plan,2022,2022-01-01,2022-12-31
-Colombia Plan de Respuesta Humanitario 2022,HCOL22,Humanitarian response plan,2022,2022-01-01,2022-12-31
-Cuba - Plan of Action: United Nations System 2022,OCUB2223,Other,2022,2022-10-20,2023-03-31
+Colombia Plan de Respuesta Humanitaria 2022,HCOL22,Humanitarian response plan,2022,2022-01-01,2022-12-31
+Cuba Hurricane Ian Response - Plan of Action 2022,OCUB2223,Other,2022,2022-10-20,2023-03-31
 Democratic Republic of the Congo Regional Refugee Response Plan 2022,RDRCRRP22,Regional response plan,2022,2022-01-01,2022-12-31
-El Salvador Plan de Respuesta Humanitario 2022,HSLV22,Humanitarian response plan,2022,2022-01-01,2022-12-31
+El Salvador Plan de Respuesta Humanitaria 2022,HSLV22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Ethiopia Humanitarian Response Plan 2022,HETH22,Humanitarian response plan,2022,2022-01-01,2022-12-31
-Guatemala Plan de Respuesta Humanitario 2022,HGTM22,Humanitarian response plan,2022,2022-01-01,2022-12-31
-Haiti Cholera+ Flash Appeal 2022,FHTI22,Flash appeal,2022,2022-10-16,2022-12-31
-Haiti Plan de Réponse Humanitaire 2022,HHTI22,Humanitarian response plan,2022,2022-01-01,2022-12-31
-Honduras Plan de Respuesta Humanitario 2022,HHND22,Humanitarian response plan,2022,2022-01-01,2022-12-31
+Guatemala Plan de Respuesta Humanitaria 2022,HGTM22,Humanitarian response plan,2022,2022-01-01,2022-12-31
+Haïti Choléra+ Appel Éclair 2022,FHTI22,Flash appeal,2022,2022-10-16,2022-12-31
+Haïti Plan de Réponse Humanitaire 2022,HHTI22,Humanitarian response plan,2022,2022-01-01,2022-12-31
+Honduras Plan de Respuesta Humanitaria 2022,HHND22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Iraq Humanitarian Response Plan 2022,HIRQ22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Kenya Drought Flash Appeal 2022,FKEN22,Flash appeal,2022,2022-01-01,2022-10-31
 Lebanon Emergency Response Plan 2022,OLBN22,Other,2022,2022-01-01,2022-12-31
 Libya Humanitarian Response Plan 2022,HLBY22,Humanitarian response plan,2022,2022-01-01,2022-12-31
-Madagascar Flash Appeal 2022,FMDG22,Flash appeal,2022,2022-01-01,2022-12-31
+Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2022,FMDG22,Flash appeal,2022,2022-01-01,2022-12-31
 Malawi Flash Appeal 2022,FMWI22,Flash appeal,2022,2022-02-26,2022-05-31
 Mali Plan de Réponse Humanitaire 2022,HMLI22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Mozambique Gombe Emergency Response Plan 2022,FMOZ22,Flash appeal,2022,2022-04-01,2022-09-30
@@ -99,15 +165,15 @@ Niger Plan de Réponse Humanitaire 2022,HNER22,Humanitarian response plan,2022,2
 Nigeria Humanitarian Response Plan 2022,HNGA22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Occupied Palestinian Territory Humanitarian Response Plan 2022,HPSE22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Pakistan Floods Response Plan 2022,OPAK22,Other,2022,2022-09-01,2022-12-31
-Philippines: Super Typhoon Rai (Odette) - Humanitarian Needs and Priorities 2022,OPHL2122,Other,2022,2021-12-24,2022-06-30
+Philippines Super Typhoon Rai (Odette) Humanitarian Needs and Priorities 2022,OPHL2122,Other,2022,2021-12-24,2022-06-30
 Regional Migrant Response Plan for the Horn of Africa and Yemen 2022,RDJIETHSOMYEM22,Regional response plan,2022,2022-01-01,2022-12-31
+Rohingya Humanitarian Crisis Joint Response Plan 2022,RBGD22,Regional response plan,2022,2022-01-01,2022-12-31
 République Centrafricaine Plan de Réponse Humanitaire 2022,HCAF22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 République Démocratique du Congo Plan de Réponse Humanitaire 2022,HCOD22,Humanitarian response plan,2022,2022-01-01,2022-12-31
-Rohingya Humanitarian Crisis Joint Response Plan 2022,RBGD22,Regional response plan,2022,2022-01-01,2022-12-31
 Somalia Humanitarian Response Plan 2022,HSOM22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 South Sudan Humanitarian Response Plan 2022,HSSD22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 South Sudan Regional Refugee Response Plan 2022,RSSDRRP22,Regional response plan,2022,2022-01-01,2022-12-31
-Sri Lanka Multi-Dimensional Crisis - Humanitarian Needs and Priorities 2022,OLKA22,Other,2022,2022-06-09,2022-09-30
+Sri Lanka Multi-Dimensional Crisis Humanitarian Needs and Priorities 2022,OLKA22,Other,2022,2022-06-09,2022-12-31
 Sudan Humanitarian Response Plan 2022,HSDN22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Syrian Arab Republic Humanitarian Response Plan 2022 - 2023,HSYR22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,RSYR22,Regional response plan,2022,2022-01-01,2022-12-31
@@ -115,43 +181,42 @@ Tchad Plan de Réponse Humanitaire 2022,HTCD22,Humanitarian response plan,2022,2
 Ukraine Flash Appeal 2022,FUKR22,Flash appeal,2022,2022-03-01,2022-12-31
 Ukraine Humanitarian Response Plan 2022,HUKR22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Ukraine Situation Regional Refugee Response Plan 2022,RUKRN22,Regional response plan,2022,2022-03-01,2022-08-31
-Venezuela Plan de Respuesta Humanitario 2022,HVEN22,Humanitarian response plan,2022,2022-01-01,2022-12-31
+Venezuela Plan de Respuesta Humanitaria 2022,HVEN22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,RREG22,Regional response plan,2022,2022-01-01,2022-12-31
 Yemen Humanitarian Response Plan 2022,HYEM22,Humanitarian response plan,2022,2022-01-01,2022-12-31
 Afghanistan Flash Appeal 2021,FAFG21,Flash appeal,2021,2021-09-01,2021-12-31
 Afghanistan Humanitarian Response Plan 2021,HAFG21,Humanitarian response plan,2021,2021-01-01,2021-12-31
-Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2021,RBGD21,Regional response plan,2021,2021-01-01,2021-12-31
 Burkina Faso Plan de Réponse Humanitaire 2021,HBFA21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Burundi Plan de Réponse Humanitaire 2021,HBDI21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Burundi Regional Refugee Response Plan 2021,RRWATZAUGA21,Regional response plan,2021,2021-01-01,2021-12-31
 Cameroon Humanitarian Response Plan  2021,HCMR21,Humanitarian response plan,2021,2021-01-01,2021-12-31
-Colombia Plan de Respuesta Humanitario 2021,HCOL21,Humanitarian response plan,2021,2021-01-01,2021-12-31
+Colombia Plan de Respuesta Humanitaria 2021,HCOL21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Democratic Republic of the Congo Regional Refugee Response Plan 2021,RDRCRRP21,Regional response plan,2021,2021-01-01,2021-12-31
-El Salvador Plan de Respuesta Humanitario 2021,HSLV21,Humanitarian response plan,2021,2021-08-01,2021-12-31
+El Salvador Plan de Respuesta Humanitaria 2021,HSLV21,Humanitarian response plan,2021,2021-08-01,2021-12-31
 Escalation of Hostilities in the OPT  Flash Appeal 2021,FPSE21,Flash appeal,2021,2021-05-27,2021-08-27
 Ethiopia Humanitarian Response Plan 2021,HETH21,Humanitarian response plan,2021,2021-01-01,2021-12-31
-Guatemala Plan de Respuesta Humanitario 2021,HGTM21,Humanitarian response plan,2021,2021-08-01,2021-12-31
-Haiti Flash Appeal 2021,FHTI2122,Flash appeal,2021,2021-08-16,2022-02-15
-Haiti Plan de Réponse Humanitaire 2021,HHTI21,Humanitarian response plan,2021,2021-01-01,2021-12-31
-Honduras Flash Appeal 2020-2021,FHND2021,Flash appeal,2021,2020-11-15,2021-06-30
-Honduras Plan de Respuesta Humanitario 2021,HHND21,Humanitarian response plan,2021,2021-08-01,2021-12-31
+Guatemala Plan de Respuesta Humanitaria 2021,HGTM21,Humanitarian response plan,2021,2021-08-01,2021-12-31
+Haiti Earthquake Flash Appeal 2021,FHTI2122,Flash appeal,2021,2021-08-16,2022-02-15
+Haïti Plan de Réponse Humanitaire 2021,HHTI21,Humanitarian response plan,2021,2021-01-01,2021-12-31
+Honduras Plan de Respuesta Humanitaria 2021,HHND21,Humanitarian response plan,2021,2021-08-01,2021-12-31
+Honduras Tropical Storm Eta Flash Appeal 2021,FHND2021,Flash appeal,2021,2020-11-15,2021-06-30
 Iraq Humanitarian Response Plan 2021,HIRQ21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Kenya Drought Flash Appeal 2021,FKEN21,Flash appeal,2021,2021-10-01,2021-12-31
 Lebanon Emergency Response Plan 2021,OLBN2122,Other,2021,2021-08-03,2022-07-31
 Libya Humanitarian Response Plan 2021,HLBY21,Humanitarian response plan,2021,2021-01-01,2021-12-31
-Madagascar's Grand Sud Flash Appeal 2021,FMDG2122,Flash appeal,2021,2021-01-01,2022-05-31
+Madagascar Grand Sud Flash Appeal 2021,FMDG2122,Flash appeal,2021,2021-01-01,2022-05-31
 Mali Plan de Réponse Humanitaire 2021,HMLI21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Mozambique Humanitarian Response Plan 2021,HMOZ21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Myanmar Humanitarian Response Plan 2021,HMMR21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Myanmar Interim Emergency Response Plan 2021,OMMR21,Other,2021,2021-07-01,2021-12-31
-Nepal Covid-19 Response Plan 2021,ONPL21,Other,2021,2021-05-01,2021-12-31
+Nepal Intersectoral COVID-19 Response Plan 2021,ONPL21,Other,2021,2021-05-01,2021-12-31
 Niger Plan de Réponse Humanitaire 2021,HNER21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Nigeria Humanitarian Response Plan 2021,HNGA21,Humanitarian response plan,2021,2021-01-01,2021-12-31
-Northern Ethiopia Response Plan 2021,OETH21,Other,2021,2021-05-01,2021-12-31
-Occupied Palestinian Territory 2021,HPSE21,Humanitarian response plan,2021,2021-01-01,2021-12-31
+Northern Ethiopia Response Plan 2021,FETH21,Flash appeal,2021,2021-05-01,2021-12-31
+Occupied Palestinian Territory Humanitarian Response Plan 2021,HPSE21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Pakistan Humanitarian Response Plan 2021,HPAK21,Humanitarian response plan,2021,2021-01-01,2021-12-31
-Refugee and Migrant Response Plan for Venezuela 2021 (RMRP),RREG21,Regional response plan,2021,2021-01-01,2021-12-31
-Regional Migrant Humanitarian Response Plan for the Horn of Africa and Yemen 2021,RDJIETHSOMYEM21,Regional response plan,2021,2021-01-01,2021-12-31
+Regional Migrant Response Plan for the Horn of Africa and Yemen 2021,RDJIETHSOMYEM21,Regional response plan,2021,2021-01-01,2021-12-31
+Rohingya Humanitarian Crisis Joint Response Plan 2021,RBGD21,Regional response plan,2021,2021-01-01,2021-12-31
 République Centrafricaine Plan de Réponse Humanitaire 2021,HCAF21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 République Démocratique du Congo Plan de Réponse Humanitaire 2021,HCOD21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Somalia Humanitarian Response Plan 2021,HSOM21,Humanitarian response plan,2021,2021-01-01,2021-12-31
@@ -159,137 +224,137 @@ South Sudan Humanitarian Response Plan 2021,HSSD21,Humanitarian response plan,20
 South Sudan Regional Refugee Response Plan 2021,RETHKENUGA21,Regional response plan,2021,2021-01-01,2021-12-31
 Sudan Humanitarian Response Plan 2021,HSDN21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Syrian Arab Republic Humanitarian Response Plan 2021,HSYR21,Humanitarian response plan,2021,2021-01-01,2021-12-31
-Syrian Arab Republic Refugee Response and Resilience Plan (3RP) 2021,RSYR21,Regional response plan,2021,2021-01-01,2021-12-31
+Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2021,RSYR21,Regional response plan,2021,2021-01-01,2021-12-31
 Tchad Plan de Réponse Humanitaire 2021,HTCD21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Ukraine Humanitarian Response Plan 2021,HUKR21,Humanitarian response plan,2021,2021-01-01,2021-12-31
-Venezuela Plan de Respuesta Humanitario 2021,HVEN21,Humanitarian response plan,2021,2021-01-01,2021-12-31
+Venezuela Plan de Respuesta Humanitaria 2021,HVEN21,Humanitarian response plan,2021,2021-01-01,2021-12-31
+Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,RREG21,Regional response plan,2021,2021-01-01,2021-12-31
 Yemen Humanitarian Response Plan 2021,HYEM21,Humanitarian response plan,2021,2021-01-01,2021-12-31
 Zimbabwe Humanitarian Response Plan 2021,HZWE21,Humanitarian response plan,2021,2021-01-01,2021-12-31
-Afghanistan 2020,HAFG20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Afghanistan Humanitarian Response Plan 2020,HAFG20,Humanitarian response plan,2020,2020-01-01,2020-12-31
 Bangladesh Intersectoral COVID-19 Response Plan 2020,OBGD20,Other,2020,2020-05-01,2020-12-31
-Bangladesh: 2020 Joint Response Plan for Rohingya Humanitarian Crisis (January-December),RBGD20,Regional response plan,2020,2020-01-01,2020-12-31
-Benin Intersectoral COVID Response Plan 2020,OBEN20,Other,2020,2020-05-01,2020-12-31
-Burkina Faso 2020,HBFA20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Burundi 2020,HBDI20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Burkina Faso Plan de Réponse Humanitaire 2020,HBFA20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Burundi Plan de Réponse Humanitaire 2020,HBDI20,Humanitarian response plan,2020,2020-01-01,2020-12-31
 Burundi Regional Refugee Response Plan 2020,RRWATZAUGA20,Regional response plan,2020,2020-01-01,2020-12-31
+Bénin Plan de Réponse Intersectorielle COVID-19 2020,OBEN20,Other,2020,2020-05-01,2020-12-31
 Cabo Delgado Province Mozambique Rapid Response Plan 2020,OMOZ20a,Other,2020,2020-06-01,2020-12-31
-Cameroon 2020,HCMR20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Central African Republic 2020,HCAF2021,Humanitarian response plan,2020,2020-01-02,2021-01-01
-Chad 2020,HTCD20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Colombia 2020,HCOL20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Colombia 2020 OLD,HCOL20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Colombia Intersectoral COVID-19 Response Plan 2020,OCOL20,Other,2020,2020-05-01,2020-12-31
-COVID-19 Global Humanitarian Response Plan,HCOVD20,Humanitarian response plan,2020,2020-03-25,2020-12-31
-Democratic Republic of the Congo 2020,HCOD20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Democratic Republic of the Congo Regional Refugee Response Plan 2020,RDRCRRP20,Regional response plan,2020,2020-01-01,2020-12-31
-Djibouti Flash Appeal 2019 - 2020,FDJI1920,Flash appeal,2020,2019-12-17,2020-03-31
-Djibouti Intersectoral COVID-19 Response Plan 2020,ODJI20,Other,2020,2020-05-01,2020-12-31
-DPR Korea Intersectoral COVID Response Plan 2020,OPRK20a,Other,2020,2020-05-01,2020-12-31
+Cameroon Humanitarian Response Plan 2020,HCMR20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Colombia Plan de Respuesta Humanitaria 2020,HCOL20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Colombia Plan de Respuesta Intersectorial COVID-19 2020,OCOL20,Other,2020,2020-05-01,2020-12-31
+DPR Korea Intersectoral COVID-19 Response Plan 2020,OPRK20c,Other,2020,2020-05-01,2020-12-31
 DPR Korea Needs and Priorities 2020,OPRK20b,Other,2020,2020-01-01,2020-12-31
-Ecuador Intersectoral COVID-19 Response Plan 2020,OECU20,Other,2020,2020-05-01,2020-12-31
-Ethiopia 2020,HETH20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Famine Prevention COVID-19 2020,OGLBL20,Other,2020,2020-05-01,2020-12-31
-Global Operational Support COVID-19,O20,Other,2020,2020-05-01,2020-12-31
-Haiti 2020,HHTI20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Iran Intersectoral COVID Response Plan 2020,OIRN20,Other,2020,2020-05-01,2020-12-31
-Iraq 2020,HIRQ20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Democratic Republic of the Congo Regional Refugee Response Plan 2020,RDRCRRP20,Regional response plan,2020,2020-01-01,2020-12-31
+Djibouti Flash Appeal 2020,FDJI1920,Flash appeal,2020,2019-12-17,2020-03-31
+Djibouti Intersectoral COVID-19 Response Plan 2020,ODJI20,Other,2020,2020-05-01,2020-12-31
+Ecuador Plan de Respuesta Intersectorial COVID-19 2020,OECU20,Other,2020,2020-05-01,2020-12-31
+Ethiopia Humanitarian Response Plan 2020,HETH20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+GHRP (COVID) Famine Prevention 2020,OGLBL20b,Other,2020,2020-05-01,2020-12-31
+GHRP (COVID) Global Humanitarian Response Plan 2020,OCOVD20,Other,2020,2020-03-25,2020-12-31
+GHRP (COVID) Global Operational Support 2020,O20,Other,2020,2020-05-01,2020-12-31
+GHRP (COVID) Unallocated supplementary NGO envelope 2020,OGLBL20a,Other,2020,2020-05-01,2020-12-31
+Haïti Plan de Réponse Humanitaire 2020,HHTI20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Iran Intersectoral COVID-19 Response Plan 2020,OIRN20,Other,2020,2020-05-01,2020-12-31
+Iraq Humanitarian Response Plan 2020,HIRQ20,Humanitarian response plan,2020,2020-01-01,2020-12-31
 Jordan Intersectoral COVID-19 Response Plan 2020,OJOR20,Other,2020,2020-05-01,2020-12-31
 Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,Other,2020,2020-01-05,2020-12-31
 Lebanon Flash Appeal 2020,FLBN20,Flash appeal,2020,2020-08-05,2020-11-13
-Lebanon Intersectoral COVID Response Plan 2020,OLBN20,Other,2020,2020-05-01,2020-12-31
+Lebanon Intersectoral COVID-19 Response Plan 2020,OLBN20,Other,2020,2020-05-01,2020-12-31
 Lesotho Flash Appeal 2019-2020,FLSO1920,Flash appeal,2020,2019-11-01,2020-04-30
-Liberia Intersectoral COVID Response Plan 2020,OLBR20,Other,2020,2020-05-01,2020-12-31
-Libya 2020,HLBY20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Mali 2020,HMLI20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Mozambique COVID-19 2020,OMOZ20b,Other,2020,2020-05-01,2020-12-31
-Myanmar 2020,HMMR20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Niger 2020,HNER20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Nigeria 2020,HNGA20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Occupied Palestinian Territory 2020 (part of 2018-2020 HRP),HPSE20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Pakistan Intersectoral COVID Response Plan 2020,OPAK20,Other,2020,2020-01-05,2020-12-31
-Philippines Intersectoral COVID Response Plan 2020,OPHL20,Other,2020,2020-05-01,2020-12-31
-Refugee and Migrant Response Plan 2020 for Refugees and Migrants from Venezuela (RMRP,RREG20,Regional response plan,2020,2020-01-01,2020-12-31
+Liberia Intersectoral COVID-19 Response Plan 2020,OLBR20,Other,2020,2020-05-01,2020-12-31
+Libya Humanitarian Response Plan 2020,HLBY20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Mali Plan de Réponse Humanitaire 2020,HMLI20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Mozambique UN Multi-Sector Response Plan to COVID-19,OMOZ20b,Other,2020,2020-05-01,2020-12-31
+Myanmar Humanitarian Response Plan 2020,HMMR20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Niger Plan de Réponse Humanitaire 2020,HNER20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Nigeria Humanitarian Response Plan 2020,HNGA20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Pakistan Intersectoral COVID-19 Response Plan 2020,OPAK20,Other,2020,2020-01-05,2020-12-31
+Philippines Intersectoral COVID-19 Response Plan 2020,OPHL20,Other,2020,2020-05-01,2020-12-31
 Regional Migrant Response Plan for the Horn of Africa and Yemen 2020,RDJIETHSOMYEM20,Regional response plan,2020,2020-01-01,2020-12-31
-Republic of Congo Intersectoral COVID-19 Response Plan 2020,OCOG20,Other,2020,2020-01-05,2020-12-31
-Sierra Leone Intersectoral COVID Response Plan 2020,OSLE20,Other,2020,2020-05-01,2020-12-31
-Somalia 2020,HSOM20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-South Sudan 2020,HSSD20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Rohingya Humanitarian Crisis Joint Response Plan 2020,RBGD20,Regional response plan,2020,2020-01-01,2020-12-31
+République Centrafricaine Plan de Réponse Humanitaire 2020,HCAF2021,Humanitarian response plan,2020,2020-01-02,2021-01-01
+République Démocratique du Congo Plan de Réponse Humanitaire 2020,HCOD20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+République du Congo Plan de Réponse Intersectorielle COVID-19 2020,OCOG20,Other,2020,2020-01-05,2020-12-31
+Sierra Leone Intersectoral COVID-19 Response Plan 2020,OSLE20,Other,2020,2020-05-01,2020-12-31
+Somalia Humanitarian Response Plan 2020,HSOM20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+South Sudan Humanitarian Response Plan 2020,HSSD20,Humanitarian response plan,2020,2020-01-01,2020-12-31
 South Sudan Regional Refugee Response Plan 2020,RETHKENUGA20,Regional response plan,2020,2020-01-01,2020-12-31
-Sudan 2020,HSDN20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Sudan Humanitarian Response Plan 2020,HSDN20,Humanitarian response plan,2020,2020-01-01,2020-12-31
 Syrian Arab Republic Humanitarian Response Plan 2020,HSYR20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Syrian Arab Republic Refugee Response and Resilience Plan (3RP) 2020,RSYR20,Regional response plan,2020,2020-01-01,2020-12-31
+Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020,RSYR20,Regional response plan,2020,2020-01-01,2020-12-31
 Tanzania Intersectoral COVID-19 Response Plan 2020,OTZA20,Other,2020,2020-05-01,2020-12-31
-Togo Intersectoral COVID Response Plan 2020,OTGO20,Other,2020,2020-05-01,2020-12-31
+Tchad Plan de Réponse Humanitaire 2020,HTCD20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Togo Plan de Réponse Intersectorielle COVID-19 2020,OTGO20,Other,2020,2020-05-01,2020-12-31
 Uganda Intersectoral COVID-19 Response Plan 2020,OUGA20,Other,2020,2020-05-01,2020-12-31
-Ukraine 2020,HUKR20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Unallocated supplementary NGO envelope COVID-19 2020,OGLBL20a,Other,2020,2020-05-01,2020-12-31
-Venezuela 2020,HVEN20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Yemen 2020,HYEM20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Zambia 2019 - 2020,OZMB1920,Other,2020,2019-10-01,2020-03-31
+Ukraine Humanitarian Response Plan 2020,HUKR20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,HVEN20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2020,RREG20,Regional response plan,2020,2020-01-01,2020-12-31
+Yemen Humanitarian Response Plan 2020,HYEM20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Zambia Humanitarian Appeal 2020,OZMB1920,Other,2020,2019-10-01,2020-03-31
 Zambia Intersectoral COVID-19 Response Plan 2020,OZMB20,Other,2020,2020-05-01,2020-12-31
-Zimbabwe 2020,HZWE20,Humanitarian response plan,2020,2020-01-01,2020-12-31
-Afghanistan 2019,HAFG19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Bangladesh: 2019 Joint Response Plan for Rohingya Humanitarian Crisis (January-December),RBGD19,Regional response plan,2019,2019-01-01,2019-12-31
-Burkina Faso 2019,OBFA19,Other,2019,2019-01-01,2019-12-31
-Burundi 2019,HBDI19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Cameroon 2019,HCMR19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Central African Republic 2019,HCAF19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Chad 2019,HTCD19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Democratic Republic of the Congo 2019,HCOD19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Zimbabwe Humanitarian Response Plan 2020,HZWE20,Humanitarian response plan,2020,2020-01-01,2020-12-31
+Afghanistan Humanitarian Response Plan 2019,HAFG19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Burkina Faso Plan d'Urgence 2019,OBFA19,Other,2019,2019-01-01,2019-12-31
+Burundi Plan de Réponse Humanitaire 2019,HBDI19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Cameroun Plan de Réponse Humanitaire 2019,HCMR19,Humanitarian response plan,2019,2019-01-01,2019-12-31
 DPR Korea Needs and Priorities 2019,OPRK19,Other,2019,2019-01-01,2019-12-31
-Ethiopia 2019,HETH19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Haiti 2019,HHTI19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Iraq 2019,HIRQ19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Islamic Republic of Iran: Floods Response Plan (April 2019),OIRN19,Other,2019,2019-04-01,2019-12-31
-Libya 2019,HLBY19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Madagascar Flash Appeal 2019,FMDG19,Flash appeal,2019,2019-01-01,2019-04-30
-Mali 2019,HMLI19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Ethiopia Humanitarian Response Plan 2019,HETH19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Haïti Plan de Réponse Humanitaire 2019,HHTI19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Iraq Humanitarian Response Plan 2019,HIRQ19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Islamic Republic of Iran Floods Response Plan 2019,OIRN19,Other,2019,2019-04-01,2019-12-31
+Libya Humanitarian Response Plan 2019,HLBY19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Madagascar Grand Sud Appel Éclair Conjoint 2019,FMDG19,Flash appeal,2019,2019-01-01,2019-04-30
+Mali Plan de Réponse Humanitaire 2019,HMLI19,Humanitarian response plan,2019,2019-01-01,2019-12-31
 Mozambique Humanitarian Response Plan 2019,HMOZ19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Myanmar 2019,HMMR19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Niger 2019,HNER19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Nigeria 2019,HNGA19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Occupied Palestinian Territory 2019 (part of 2018-2020 HRP),HPSE19,Humanitarian response plan,2019,2019-01-01,2019-12-30
-Pakistan 2019,OPAK19,Other,2019,2019-01-01,2019-12-31
-Regional Refugee and Migrant Response Plan (for Refugees and Migrants from Venezuela),RSAMR19,Regional response plan,2019,2019-01-01,2019-12-31
-Somalia 2019,HSOM19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-South Sudan 2019,HSSD19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Sudan 2019,HSDN19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Myanmar Humanitarian Response Plan 2019,HMMR19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Niger Plan de Réponse Humanitaire 2019,HNER19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Nigeria Humanitarian Response Strategy 2019,HNGA19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Occupied Palestinian Territory Humanitarian Response Strategy 2019,HPSE19,Humanitarian response plan,2019,2019-01-01,2019-12-30
+Pakistan Response Plan 2019,OPAK19,Other,2019,2019-01-01,2019-12-31
+Rohingya Humanitarian Crisis Joint Response Plan 2019,RBGD19,Regional response plan,2019,2019-01-01,2019-12-31
+République Centrafricaine Plan de Réponse Humanitaire 2019,HCAF19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+République Démocratique du Congo Plan de Réponse Humanitaire 2019,HCOD19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Somalia Humanitarian Response Plan 2019,HSOM19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+South Sudan Humanitarian Response Plan 2019,HSSD19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Sudan Humanitarian Response Plan 2019,HSDN19,Humanitarian response plan,2019,2019-01-01,2019-12-31
 Syrian Arab Republic Humanitarian Response Plan 2019,HSYR19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Syrian Arab Republic Refugee Response and Resilience Plan (3RP) 2019,RSYR19,Regional response plan,2019,2019-01-01,2019-12-31
-Ukraine Humanitarian Response Plan (HRP) 2019,HUKR19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Venezuela 2019,HVEN19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Yemen 2019,HYEM19,Humanitarian response plan,2019,2019-01-01,2019-12-31
-Zimbabwe Flash Appeal 2019 / 2020,FZWE1820,Flash appeal,2019,2018-12-01,2020-04-29
-Afghanistan 2018,HAFG18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2018,OBGD18,Other,2018,2018-01-22,2018-12-31
-Burkina Faso 2018,OBFA18,Other,2018,2018-01-01,2018-12-31
-Burundi 2018,HBDI18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Cameroon 2018,HCMR18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Central African Republic 2018,HCAF18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Chad 2018,HTCD18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Democratic Republic of the Congo 2018,HCOD18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2019,RSYR19,Regional response plan,2019,2019-01-01,2019-12-31
+Tchad Plan de Réponse Humanitaire 2019,HTCD19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Ukraine Humanitarian Response Plan 2019,HUKR19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Venezuela Plan de Respuesta Humanitaria 2019,HVEN19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2019,RSAMR19,Regional response plan,2019,2019-01-01,2019-12-31
+Yemen Humanitarian Response Plan 2019,HYEM19,Humanitarian response plan,2019,2019-01-01,2019-12-31
+Zimbabwe Flash Appeal 2019,FZWE1820,Flash appeal,2019,2018-12-01,2020-04-29
+Afghanistan Humanitarian Response Plan 2018,HAFG18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Burkina Faso Plan d'Urgence et de Résilience 2018,OBFA18,Other,2018,2018-01-01,2018-12-31
+Burundi Plan de Réponse Humanitaire 2018,HBDI18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Cameroun Plan de Réponse Humanitaire 2018,HCMR18,Humanitarian response plan,2018,2018-01-01,2018-12-31
 DPR Korea Needs and Priorities 2018,OPRK18,Other,2018,2018-01-01,2018-12-31
 Ethiopia Humanitarian and Disaster Resilience Plan 2018,HETH18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Haiti 2018,HHTI18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Indonesia: Central Sulawesi Earthquake Response Plan 2018,OIDN18,Other,2018,2018-10-01,2018-12-31
-Iraq 2018,HIRQ18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Libya 2018,HLBY18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Mali 2018,HMLI18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Mauritania 2018,OMRT18,Other,2018,2018-01-01,2018-12-31
-Myanmar 2018,HMMR18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Niger 2018,HNER18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Nigeria 2018,HNGA18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Occupied Palestinian Territory 2018 (part of 2018-2020 HRP),HPSE18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Haiti Humanitarian Response Plan 2018,HHTI18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Indonesia Central Sulawesi Earthquake Response Plan 2018,OIDN18,Other,2018,2018-10-01,2018-12-31
+Iraq Humanitarian Response Plan 2018,HIRQ18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Libya Humanitarian Response Plan 2018,HLBY18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Mali Plan de Réponse Humanitaire 2018,HMLI18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Mauritania  Plan de Travail Humanitaire 2018,OMRT18,Other,2018,2018-01-01,2018-12-31
+Myanmar Interim Humanitarian Response Plan 2018,HMMR18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Niger Plan de Réponse Humanitaire 2018,HNER18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Nigeria Humanitarian Response Plan 2018,HNGA18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Occupied Palestinian Territory Humanitarian Response Strategy 2018,HPSE18,Humanitarian response plan,2018,2018-01-01,2018-12-31
 Pakistan Transition Plan: Humanitarian Component 2018,OPAK18,Other,2018,2018-01-01,2018-12-31
-Philippines: Marawi Conflict 2018,OPHL18,Other,2018,2018-02-21,2018-12-31
-Republic of South Sudan 2018,HSSD18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Senegal 2018,OSEN18,Other,2018,2018-01-01,2018-12-31
-Somalia 2018,HSOM18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Sudan 2018,HSDN18,Humanitarian response plan,2018,2018-01-01,2018-12-24
+Philippines Marawi Conflict Humanitarian Response and Resources Overview 2018,OPHL18,Other,2018,2018-02-21,2018-12-31
+Rohingya Humanitarian Crisis Joint Response Plan 2018,RBGD18,Regional response plan,2018,2018-01-22,2018-12-31
+République Centrafricaine Plan de Réponse Humanitaire 2018,HCAF18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+République Démocratique du Congo Plan de Réponse Humanitaire 2018,HCOD18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Somalia Humanitarian Response Plan 2018,HSOM18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+South Sudan Humanitarian Response Plan 2018,HSSD18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Sudan Humanitarian Response Plan 2018,HSDN18,Humanitarian response plan,2018,2018-01-01,2018-12-24
 Syrian Arab Republic Humanitarian Response Plan 2018,HSYR18,Humanitarian response plan,2018,2018-11-30,2018-12-30
-Syrian Arab Republic regional refugee and resilience plan (3RP) 2018,,Regional response plan,2018,2018-01-01,2018-12-31
+Syrian Arab Republic regional refugee and resilience plan (3RP) 2018,RSYR18,Regional response plan,2018,2018-01-01,2018-12-31
+Sénégal Plan de Travail Humanitaire 2018,OSEN18,Other,2018,2018-01-01,2018-12-31
+Tchad Plan de Réponse Humanitaire 2018,HTCD18,Humanitarian response plan,2018,2018-01-01,2018-12-31
 Ukraine Humanitarian Response Plan 2018,HUKR18,Humanitarian response plan,2018,2018-01-01,2018-12-31
-Yemen 2018,HYEM18,Humanitarian response plan,2018,2018-01-01,2018-12-31
+Yemen Humanitarian Response Plan 2018,HYEM18,Humanitarian response plan,2018,2018-01-01,2018-12-31
 2017 Europe Situation - Regional Refugee and Migrant Response,OEUR17,Other,2017,2017-01-01,2017-12-31
 Afghanistan 2017,HAFG17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Bangladesh: Rohingya Refugee Crisis 2017,OBGD17,Other,2017,2017-08-01,2017-12-31
@@ -299,13 +364,13 @@ Cameroon 2017,HCMR17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Central African Republic 2017,HCAF17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Chad 2017,HTCD17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Cuba Plan of Action 2017,OCUB17,Other,2017,2017-09-18,2017-12-31
+DPR Korea Needs and Priorities 2017,OPRK17,Other,2017,2017-01-01,2017-12-31
 Democratic Republic of the Congo 2017,HCOD17,Humanitarian response plan,2017,2017-02-13,2017-12-31
 Djibouti 2017,HDJI17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Dominica Flash Appeal 2017,FDMA17,Flash appeal,2017,2017-09-28,2017-12-29
-DPR Korea Needs and Priorities 2017,OPRK17,Other,2017,2017-01-01,2017-12-31
 Ethiopia 2017,HETH17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Haiti 2017,HHTI17,Humanitarian response plan,2017,2017-01-01,2017-12-31
-Hurricane Irma: Regional Response Plan for the Caribbean Region (Sep to Dec 2017),,Other,2017,2017-09-15,2017-12-31
+Hurricane Irma: Regional Response Plan for the Caribbean Region (Sep to Dec 2017),O17,Other,2017,2017-09-15,2017-12-31
 Iraq 2017,HIRQ17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Kenya Flash Appeal 2017,FKEN17,Flash appeal,2017,2017-02-10,2017-11-30
 Libya 2017,HLBY17,Humanitarian response plan,2017,2017-01-01,2017-12-31
@@ -316,7 +381,6 @@ Mozambique Cyclone Dineo Flash Appeal 2017,FMOZ17,Flash appeal,2017,2017-02-28,2
 Myanmar 2017,HMMR17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Niger 2017,HNER17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Nigeria 2017,HNGA17,Humanitarian response plan,2017,2017-01-01,2017-12-31
-occupied Palestinian territory 2017,HPSE17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Pakistan Humanitarian Strategic Plan 2017,HPAK17,Other,2017,2017-01-01,2017-12-31
 Peru Flash Appeal 2017,FPER17,Flash appeal,2017,2017-04-01,2017-10-31
 Republic of Congo 2017,HCOG17,Humanitarian response plan,2017,2017-07-19,2017-12-31
@@ -324,11 +388,12 @@ Republic of South Sudan 2017,HSSD17,Humanitarian response plan,2017,2017-01-01,2
 Senegal 2017,HSEN17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Somalia 2017,HSOM17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Sudan 2017,HSDN17,Humanitarian response plan,2017,2017-01-01,2017-12-31
+Syria Humanitarian Response Plan 2017,HSYR17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Syria regional refugee and resilience plan (3RP) 2017,RSYR17,Regional response plan,2017,2017-01-01,2017-12-31
-Syrian Arab Republic Humanitarian Response Plan 2017,HSYR17b,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Ukraine Humanitarian Response Plan 2017,HUKR17,Humanitarian response plan,2017,2017-01-01,2017-12-31
 Yemen Humanitarian Response Plan 2017,HYEM17,Humanitarian response plan,2017,2017-01-01,2017-12-31
-2016 Europe Situation -Regional Refugee and Migrant Response,,Other,2016,2016-01-01,2016-12-31
+occupied Palestinian territory 2017,HPSE17,Humanitarian response plan,2017,2017-01-01,2017-12-31
+2016 Europe Situation -Regional Refugee and Migrant Response,OEUR16,Other,2016,2016-01-01,2016-12-31
 Afghanistan 2016,HAFG16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Afghanistan Flash Appeal: One million people on the move (September - December 2016),FAFG16,Flash appeal,2016,2016-09-01,2016-12-31
 Burkina Faso 2016,HBFA16,Humanitarian response plan,2016,2016-01-01,2016-12-31
@@ -336,9 +401,9 @@ Burundi 2016,HBDI16,Humanitarian response plan,2016,2016-03-08,2016-12-31
 Cameroon 2016,HCMR16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Central African Republic 2016,HCAF16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Chad 2016,HTCD16,Humanitarian response plan,2016,2016-01-01,2016-12-31
+DPR Korea Needs and Priorities 2016,OPRK16,Other,2016,2016-01-01,2016-12-31
 Democratic Republic of the Congo 2016,HCOD16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Djibouti 2016,HDJI16,Humanitarian response plan,2016,2016-01-01,2016-12-31
-DPR Korea Needs and Priorities 2016,OPRK16,Other,2016,2016-01-01,2016-12-31
 Ecuador Earthquake Flash Appeal 2016,FECU16,Flash appeal,2016,2016-04-16,2016-10-31
 Fiji Tropical Cyclone Flash Appeal 2016,FFJI16,Flash appeal,2016,2016-02-20,2016-05-30
 Gambia 2016,HGMB16,Humanitarian response plan,2016,2016-01-01,2016-12-31
@@ -355,25 +420,25 @@ Mosul Flash Appeal 2016,FIRQ16,Flash appeal,2016,2016-07-20,2016-10-01
 Myanmar 2016,HMMR16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Niger 2016,HNER16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Nigeria 2016,HNGA16,Humanitarian response plan,2016,2016-01-01,2016-12-31
-occupied Palestinian territory 2016,HPSE16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Republic of South Sudan 2016,HSSD16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Sahel 2016,HXSHL16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Senegal 2016,HSEN16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Somalia 2016,HSOM16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Sudan 2016,HSDN16,Humanitarian response plan,2016,2016-01-01,2016-12-31
-Syrian Arab Republic Humanitarian Response Plan 2016,HSYR16,Humanitarian response plan,2016,2016-01-01,2016-12-31
-Syrian Arab Republic regional refugee and resilience plan (3RP) 2016,,Regional response plan,2016,2016-01-01,2016-12-31
+Syria Humanitarian Response Plan 2016,HSYR16,Humanitarian response plan,2016,2016-01-01,2016-12-31
+Syria regional refugee and resilience plan (3RP) 2016,RXSYRREG16,Regional response plan,2016,2016-01-01,2016-12-31
 Ukraine 2016,HUKR1615,Humanitarian response plan,2016,2016-01-01,2015-12-31
 Yemen Humanitarian Response Plan 2016,HYEM16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Zimbabwe Humanitarian Response Plan 2016,HZWE1617,Humanitarian response plan,2016,2016-04-01,2017-03-31
+occupied Palestinian territory 2016,HPSE16,Humanitarian response plan,2016,2016-01-01,2016-12-31
 Afghanistan 2015,HAFG15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Burkina Faso 2015,HBFA15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Cameroon 2015,HCMR15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Central African Republic 2015,HCAF15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Chad 2015,HTCD15,Humanitarian response plan,2015,2015-01-01,2015-12-31
+DPR Korea Needs and Priorities 2015,OPRK15,Other,2015,2015-01-01,2015-12-31
 Democratic Republic of the Congo 2015,HCOD15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Djibouti 2015,HDJI15,Humanitarian response plan,2015,2015-01-01,2015-12-31
-DPR Korea Needs and Priorities 2015,OPRK15,Other,2015,2015-01-01,2015-12-31
 Gambia 2015,HGMB15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Guatemala 2015,FGTM1415,Flash appeal,2015,2014-12-24,2015-09-30
 Haiti 2015 Urgent Request for Humanitarian Funding,FHTI15,Flash appeal,2015,2015-08-17,2015-12-31
@@ -387,17 +452,17 @@ Myanmar 2015,HMMR15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Nepal Earthquake Flash Appeal 2015,FNPL15,Flash appeal,2015,2015-04-29,2015-07-28
 Niger 2015,HNER15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Nigeria 2015,HNGA15,Humanitarian response plan,2015,2015-01-01,2015-12-31
-occupied Palestinian territory 2015,HPSE15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Republic of South Sudan 2015,HSSD15,Humanitarian response plan,2015,2015-01-01,2015-12-31
-Sahel Regional 2015,,Humanitarian response plan,2015,2015-01-01,2015-12-31
+Sahel Regional 2015,HXSHL15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Senegal 2015,HSEN15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Somalia 2015,HSOM15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 "South Sudan regional refugee response plan 2015 (Ethiopia, Kenya, Uganda components)",RXSSDREG15,Regional response plan,2015,2015-01-01,2015-12-31
 Sudan 2015,HSDN15,Humanitarian response plan,2015,2015-01-01,2015-12-31
-Syrian Arab Republic regional refugee and resilience plan (3RP) 2015,,Regional response plan,2015,2015-01-01,2015-12-31
-Syrian Arab Republic Response Plan 2015,HSYR15,Humanitarian response plan,2015,2015-01-01,2015-12-31
+Syria Response Plan 2015,HSYR15,Humanitarian response plan,2015,2015-01-01,2015-12-31
+Syria regional refugee and resilience plan (3RP) 2015,RXSYRREG15,Regional response plan,2015,2015-01-01,2015-12-31
 Ukraine 2015,HUKR15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Yemen 2015,HYEM15,Humanitarian response plan,2015,2015-01-01,2015-12-31
+occupied Palestinian territory 2015,HPSE15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Afghanistan 2014,HAFG14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Burkina Faso 2014,HBFA1314,Humanitarian response plan,2014,2013-01-01,2014-12-31
 Cameroon 2014,HCMR14,Humanitarian response plan,2014,2014-01-01,2014-12-31
@@ -405,7 +470,7 @@ Central African Republic 2014,HCAF14,Humanitarian response plan,2014,2014-01-01,
 Chad 2014,HTCD14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Democratic Republic of the Congo 2014,HCOD1415,Humanitarian response plan,2014,2014-01-01,2015-04-30
 Djibouti 2014,HDJI14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-"Ebola Virus Outbreak - Overview of Needs and Requirements (inter-agency plan for Guinea, Liberia, Sierra Leone, Region) - October 2014 - June 2015",RGINLBRSLE1415,Regional response plan,2014,2014-10-01,2015-06-30
+"Ebola Virus Outbreak - Overview of Needs and Requirements (inter-agency plan for Guinea, Liberia, Sierra Leone, Region) - October 2014 - June 2015",OXEBOLA1415,Regional response plan,2014,2014-10-01,2015-06-30
 Gambia 2014,HGMB14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Haiti Humanitarian Action Plan 2014,HHTI14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Iraq 2014,HIRQ14,Humanitarian response plan,2014,2014-04-01,2014-12-31
@@ -414,21 +479,21 @@ Mauritania 2014,HMRT14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Myanmar 2014,HMMR14,Humanitarian response plan,2014,2014-02-28,2014-12-31
 Niger Plan de Réponse Stratégique 2014,HNER14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Nigeria 2014,HNGA14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-occupied Palestinian territory 2014,HPSE14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Philippines - Bohol Earthquake Action Plan (October 2013 - April 2014),FPHL1314,Flash appeal,2014,2013-10-22,2014-04-22
 Philippines - Typhoon Haiyan Strategic Response Plan (November 2013 - October 2014),HPHL1314,Humanitarian response plan,2014,2013-11-08,2014-05-07
 Philippines- Zamboanga crisis (October 2013-August 2014),HPHL1314a,Humanitarian response plan,2014,2013-10-01,2014-08-31
 Republic of Congo 2014,HCOG14,Humanitarian response plan,2014,2014-04-10,2014-12-31
 Republic of South Sudan - Crisis Response Plan 2014,HSSD14,Humanitarian response plan,2014,2014-01-01,2014-06-30
-Sahel Regional 2014,,Humanitarian response plan,2014,2014-01-01,2014-12-31
+Sahel Regional 2014,HXSHL14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Senegal 2014,HSEN14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Somalia 2014,HSOM14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 "South Sudan Regional Refugee Response Plan (Ethiopia, Kenya, Sudan and Uganda) 2014",RXSSDREG14,Regional response plan,2014,2014-01-01,2014-12-31
 Sudan Humanitarian Work Plan 2014,HSDN14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Syria Humanitarian Assistance Response Plan (SHARP) 2014,HSYR1314,Humanitarian response plan,2014,2013-11-09,2014-12-31
-Syrian Arab Republic Regional Refugee Response Plan (RRP) 2014,,Regional response plan,2014,2014-01-02,2014-12-31
+Syria Regional Refugee Response Plan (RRP) 2014,RXSYRREG14,Regional response plan,2014,2014-01-02,2014-12-31
 Ukraine PRP 2014,FUKR14,Flash appeal,2014,2014-08-15,2014-12-31
 Yemen 2014,HYEM14,Humanitarian response plan,2014,2014-01-01,2014-12-31
+occupied Palestinian territory 2014,HPSE14,Humanitarian response plan,2014,2014-01-01,2014-12-31
 Afghanistan 2013,CAFG13,CAP,2013,2013-01-01,2013-12-31
 Burkina Faso 2013,CBFA13,CAP,2013,2013-01-01,2013-12-31
 Central African Republic 2013,CCAF13,CAP,2013,2013-01-01,2013-12-31
@@ -443,7 +508,6 @@ Mauritania 2013,CMRT13,CAP,2013,2013-01-01,2013-12-31
 Myanmar - Kachin Response Plan 2013 (March - December 2013),OMMR13,Other,2013,2013-03-01,2013-12-31
 Myanmar - Rakhine Response Plan 2012-2013 (July 2012 - December 2013),OMMR1213,Other,2013,2012-07-01,2013-12-31
 Niger 2013,CNER13,CAP,2013,2013-01-01,2013-12-31
-occupied Palestinian territory 2013,CPSE13,CAP,2013,2013-01-01,2013-12-31
 Philippines Mindanao Action Plan 2013,CPHL1314,CAP,2013,2013-01-01,2014-08-31
 Republic of South Sudan 2013,CSSD13,CAP,2013,2013-01-01,2013-12-31
 Somalia 2013,CSOM13,CAP,2013,2013-01-01,2013-12-31
@@ -452,3 +516,363 @@ Syria Humanitarian Assistance Response Plan (SHARP) 2013,CSYR13,CAP,2013,2013-01
 Syria Regional Refugee Response Plan (RRP) 2013,RXSYRREG13,Regional response plan,2013,2013-01-01,2013-06-30
 Yemen Humanitarian Response Plan 2013,CYEM13,CAP,2013,2013-01-01,2013-12-31
 Zimbabwe 2013,OZWE13,Other,2013,2013-01-01,2013-12-31
+occupied Palestinian territory 2013,CPSE13,CAP,2013,2013-01-01,2013-12-31
+2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,CAP,2012,2012-01-01,2012-12-31
+Afghanistan 2012,CAFG1112,CAP,2012,2011-11-30,2012-12-31
+Burkina Faso 2012,CBFA12,CAP,2012,2012-04-01,2012-12-31
+Central African Republic 2012,CCAF12,CAP,2012,2012-01-01,2012-12-31
+Chad 2012,CTCD12,CAP,2012,2012-01-01,2012-12-31
+Cote d'Ivoire 2012,CCIV12,CAP,2012,2012-01-01,2012-12-31
+Democratic Republic of the Congo 2012,CCOD1213,CAP,2012,2012-01-01,2013-03-31
+Djibouti Appeal 2012,CDJI12,CAP,2012,2012-01-01,2012-12-31
+Haiti 2012,CHTI12,CAP,2012,2012-01-01,2012-12-31
+Korea DPR Overview of Needs and Assistance 2012,OPRK12,Other,2012,2012-01-01,2012-12-31
+Lesotho Food Insecurity (September 2012 - March 2013),FLSO1213,Flash appeal,2012,2012-09-18,2013-03-25
+Liberia 2012,CLBR12,CAP,2012,2012-01-01,2012-12-31
+Mali 2012,CMLI12,CAP,2012,2012-05-01,2012-12-31
+Mauritania 2012,CMRT12,CAP,2012,2012-05-01,2012-12-31
+Niger 2012,CNER12,CAP,2012,2012-01-01,2012-12-31
+Pakistan Early Recovery Framework 2012,OPAK12,Other,2012,2012-01-01,2012-09-30
+Philippines Humanitarian Action Plan 2012,CPHL12,CAP,2012,2012-01-01,2012-12-31
+Republic of South Sudan 2012,CSSD12,CAP,2012,2012-01-01,2012-12-31
+Somalia 2012,CSOM12,CAP,2012,2012-01-01,2012-12-31
+Sri Lanka Joint Plan of Assistance to the Northern Province (JPA) 2012,OLKA12,Other,2012,2012-01-01,2012-12-31
+Sudan 2012,CSDN12,CAP,2012,2012-01-01,2012-12-31
+Syria Humanitarian Assistance Response Plan (SHARP) 2012,CSYR12,CAP,2012,2012-06-05,2012-12-05
+Yemen Humanitarian Response Plan 2012,CYEM12,CAP,2012,2012-01-01,2012-12-31
+Zimbabwe 2012,CZWE12,CAP,2012,2012-01-01,2012-12-31
+occupied Palestinian territory 2012,CPSE12,CAP,2012,2012-01-01,2012-12-31
+2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,CAP,2011,2011-01-01,2013-12-31
+Afghanistan 2011,CAFG11,CAP,2011,2011-01-01,2011-12-31
+Central African Republic 2011,CCAF11,Humanitarian response plan,2011,2011-01-01,2011-12-31
+Chad 2011,CTCD11,CAP,2011,2011-01-01,2011-12-31
+Democratic Republic of the Congo 2011,CCOD1112,CAP,2011,2011-01-01,2012-12-31
+Djibouti Drought Appeal 2011,CDJI1011,CAP,2011,2010-10-01,2011-12-31
+El Salvador Flash Appeal (October 2011 - April 2012),FSLV1112,Flash appeal,2011,2011-10-25,2012-04-25
+Haiti 2011,CHTI1011,CAP,2011,2010-12-01,2011-12-31
+Korea DPR : Overview of Needs and Assistance 2011,OPRK11,Other,2011,2011-05-01,2011-12-31
+Mindanao Humanitarian Action Plan 2011,OPHL11,Other,2011,2011-01-01,2011-12-31
+Namibia Flash Appeal (April - October 2011),FNAM11,Flash appeal,2011,2011-04-11,2011-10-11
+Nicaragua Flash Appeal (October 2011 - April 2012),FNIC1112,Flash appeal,2011,2011-10-27,2012-04-26
+Niger 2011,CNER11,CAP,2011,2011-01-01,2011-12-31
+Pakistan Rapid Response Plan Floods 2011 (September - March 2012),FPAK1112,Flash appeal,2011,2011-09-15,2012-06-30
+Regional Flash Appeal for the Libyan Crisis (March - December 2011),FXLBYREG11,Regional response plan,2011,2011-03-07,2011-12-31
+Republic of South Sudan 2011,CSSD11,CAP,2011,2011-07-01,2011-12-31
+Somalia 2011,CSOM11,CAP,2011,2011-01-01,2011-12-31
+Sri Lanka Floods Flash Appeal (Revised) (January - June 2011),FLKA11,Flash appeal,2011,2011-01-01,2011-12-31
+Sri Lanka Joint Plan of Assistance to the Northern Province (JPA) 2011,OLKA11,Other,2011,2011-01-01,2011-12-31
+Sudan 2011,CSDN1112,CAP,2011,2011-01-01,2012-01-31
+West Africa 2011,CXWAF11,Regional response plan,2011,2011-01-01,2011-12-31
+Yemen Humanitarian Response Plan 2011,CYEM11,CAP,2011,2011-01-01,2011-12-31
+Zimbabwe 2011,CZWE11,CAP,2011,2011-01-01,2011-12-31
+occupied Palestinian territory 2011,CPSE11,CAP,2011,2011-01-01,2011-12-31
+Afghanistan Humanitarian Action Plan 2010,CAFG10,CAP,2010,2010-01-01,2010-12-31
+Burkina Faso Emergency Humanitarian Action Plan 2010,OBFA1011,Other,2010,2010-08-01,2011-01-31
+Central African Republic 2010,CCAF10,CAP,2010,2010-01-01,2010-12-31
+Chad 2010,CTCD10,CAP,2010,2010-01-01,2010-12-31
+Democratic Republic of the Congo 2010,CCOD10,CAP,2010,2010-01-01,2010-12-31
+El Salvador Flash Appeal (Revised) (November 2009 - May 2010),FSLV0910,Flash appeal,2010,2009-11-01,2010-05-31
+Guatemala Flash Appeal (Revised) (June - December 2010),FGTM10,Flash appeal,2010,2010-06-10,2010-12-09
+Guatemala Food Insecurity and Acute Malnutrition Appeal 2010,CGTM10,CAP,2010,2010-02-12,2010-08-11
+Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,Flash appeal,2010,2010-01-12,2010-12-31
+Iraq Humanitarian Action Plan 2010,OIRQ10,Other,2010,2010-01-01,2010-12-31
+Kenya Emergency Humanitarian Response Plan 2010,CKEN10,CAP,2010,2010-01-01,2010-12-31
+Kyrgyzstan Flash Appeal (Revised) (June 2010 - June 2011),FKGZ1011,Flash appeal,2010,2010-06-01,2011-06-30
+Mongolia Dzud Appeal (April 2010 - May 2011),CMNG1011,CAP,2010,2010-03-01,2011-03-07
+Nepal Humanitarian Transition Appeal 2010,ONPL10,Other,2010,2010-01-01,2010-12-31
+Pakistan Floods Relief and Early Recovery Response Plan (Revised) (August 2010 - July 2011),FPAK1011,Flash appeal,2010,2010-08-01,2011-07-31
+Pakistan Humanitarian Response Plan (February - December 2010),OPAK10,Other,2010,2010-02-01,2010-12-31
+Regional Response Plan for Iraqi Refugees 2010,OXIRQREG10,Regional response plan,2010,2010-01-01,2010-12-31
+Republic of Congo 2010,CCOG10,CAP,2010,2010-02-20,2010-12-31
+Somalia 2010,CSOM10,CAP,2010,2010-01-01,2010-12-31
+Sri Lanka Common Humanitarian Action Plan 2010,OLKA10,Other,2010,2010-01-01,2010-12-31
+Sudan 2010,CSDN10,CAP,2010,2010-01-01,2010-12-31
+Uganda 2010,CUGA10,CAP,2010,2010-01-01,2010-12-31
+West Africa 2010,CXWAF10,CAP,2010,2010-01-01,2010-12-31
+Yemen Humanitarian Response Plan 2010,CYEM10,CAP,2010,2010-01-01,2010-12-31
+Zimbabwe 2010,CZWE10,CAP,2010,2010-01-01,2010-12-31
+occupied Palestinian territory 2010,CPSE10,CAP,2010,2010-01-01,2010-12-31
+Afghanistan Humanitarian Action Plan 2009,CAFG09,CAP,2009,2009-01-01,2009-12-31
+Burkina Faso Flash Appeal (September 2009 - February 2010),FBFA0910,Flash appeal,2009,2009-09-10,2010-03-09
+Central African Republic 2009,CCAF09,CAP,2009,2009-01-01,2009-12-31
+Chad 2009,CTCD09,CAP,2009,2009-01-01,2009-12-31
+Côte d'Ivoire 2009,CCIV09,CAP,2009,2009-01-01,2009-12-31
+Democratic Republic of the Congo 2009,CCOD09,CAP,2009,2009-01-01,2009-12-30
+Indonesia West Sumatra Earthquake Humanitarian Response Plan 2009,FIDN09,Flash appeal,2009,2009-10-01,2009-12-31
+Iraq and the region 2009,CIRQ09,CAP,2009,2009-01-01,2009-12-31
+Kenya Emergency Humanitarian Response Plan 2009,CKEN09,CAP,2009,2009-01-01,2009-12-31
+Lao PDR Flash Appeal (Revised) (October 2009 - April 2010),FLAO0910,Flash appeal,2009,2009-10-01,2010-04-30
+Madagascar Flash Appeal (Revised) (April - October 2009),FMDG09,Flash appeal,2009,2009-04-01,2009-10-31
+Namibia Flash Appeal (Revised) (March - November 2009),FNAM09,Flash appeal,2009,2009-03-20,2009-09-30
+Nepal Humanitarian Transition Appeal 2009,ONPL09,Other,2009,2009-01-01,2009-12-31
+Pakistan Humanitarian Response Plan (Revised) 2008-2009,CPAK0809,CAP,2009,2008-09-01,2009-12-31
+Philippines Flash Appeal  (Revised) (October 2009 - March 2010),FPHL0910,Flash appeal,2009,2009-10-03,2010-03-31
+Somalia 2009,CSOM09,CAP,2009,2009-01-01,2009-12-31
+Sri Lanka Common Humanitarian Action Plan 2009,CLKA09,CAP,2009,2009-01-01,2009-12-31
+Sudan 2009,CSDN09,CAP,2009,2009-01-01,2009-12-31
+Syria Drought Response Plan (Revised) (July 2009 - June 2010),OSYR0910,Other,2009,2009-07-15,2010-06-14
+Tajikistan Floods and Mudflows REACT Appeal 2009,OTJK09,Other,2009,2009-06-01,2009-12-31
+Tajikistan Humanitarian Food Security Appeal 2008-2009,OTJK0809,Other,2009,2008-10-01,2009-12-31
+Uganda 2009,CUGA09,CAP,2009,2009-01-01,2009-12-31
+West Africa 2009,CXWAF09,CAP,2009,2009-01-01,2009-12-31
+Yemen Flash Appeal (Revised) (September - December 2009),FYEM09,Flash appeal,2009,2009-08-01,2009-12-31
+Zimbabwe 2009,CZWE09,CAP,2009,2009-01-01,2009-12-31
+occupied Palestinian territory 2009,CPSE09,CAP,2009,2009-01-01,2009-12-31
+Afghanistan Joint Appeal 2008: Humanitarian Consequences of Rise in Food Prices (February - June 2008),OAFG08,Other,2008,2008-02-01,2008-06-30
+Afghanistan Joint Emergency Appeal 2008: High Food Price and Drought Crisis (July 2008 - June 2009),OAFG0809,Other,2008,2008-07-01,2009-06-30
+Bolivia Flash Appeal 2008 [unrevised as of Oct. 2008; appeal closed at 80% funding and unmet requirements reduced to zero],FBOL08,Flash appeal,2008,2008-02-01,2008-08-31
+Central African Republic 2008,CCAF08,CAP,2008,2008-01-01,2008-12-31
+Chad 2008,CTCD08,CAP,2008,2008-01-01,2008-12-31
+Cuba Post-Hurricane Plan of Action 2008,OCUB0809,Other,2008,2008-10-01,2009-12-31
+Côte d'Ivoire 2008,CCIV08,CAP,2008,2008-01-01,2008-12-31
+Democratic Republic of the Congo 2008 Humanitarian Action Plan,CCOD08,CAP,2008,2008-01-01,2008-12-31
+"Djibouti Joint Appeal 2008: Response Plan for Drought, Food and Nutrition Crisis",ODJI0809,Other,2008,2008-08-01,2009-02-28
+Georgia Crisis Flash Appeal (Revised) 2008,FGEO0809,Flash appeal,2008,2008-08-09,2009-02-09
+Haiti Flash Appeal (Revised) 2008,FHTI0809,Flash appeal,2008,2008-09-01,2009-03-31
+Honduras Flash Appeal (Updated) (November - April) 2008,FHND0809,Flash appeal,2008,2008-11-01,2009-04-30
+Iraq 2008,CIRQ08,CAP,2008,2008-01-01,2008-12-31
+Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,Flash appeal,2008,2008-01-01,2008-07-01
+Kyrgyzstan Flash Appeal (Revised) 2008,FKGZ0809,Flash appeal,2008,2008-12-01,2009-05-31
+Lao PDR Joint Appeal for Flood Recovery and Rehabilitation 2008,OLAO0809,Other,2008,2008-10-01,2009-11-30
+Liberia Critical Humanitarian Gaps 2008,CLBR08,CAP,2008,2008-03-01,2008-12-31
+Madagascar Flash Appeal 2008 [unrevised as of Nov. 2008; appeal closed at 50% funding and unmet requirements reduced to zero] ,FMDG08,Flash appeal,2008,2008-03-01,2008-06-30
+Myanmar Flash Appeal (Revised) 2008,FMMR08,Flash appeal,2008,2008-05-01,2008-11-30
+Nepal Common Appeal for Transition Support 2008,ONPL08,Other,2008,2008-01-01,2008-12-31
+Nepal Floods Humanitarian Response Plan 2008,ONPL0809,Other,2008,2008-10-01,2009-03-31
+Somalia 2008,CSOM08,CAP,2008,2008-01-01,2008-12-31
+Southern African Region Preparedness and Response Plan 2008 [unrevised as of Nov. 2008; appeal closed at 33% funding and unmet requirements reduced to zero] ,FMOZ08,Flash appeal,2008,2008-02-01,2008-08-08
+Sri Lanka Common Humanitarian Action Plan 2008,OLKA08,Other,2008,2008-01-01,2008-12-31
+Sudan Work Plan 2008 (Humanitarian/Early Recovery Component) ,CSDN08,CAP,2008,2008-01-01,2008-12-31
+Syria Drought Appeal 2008,OSYR0809,Other,2008,2008-10-01,2009-04-30
+Tajikistan Flash Appeal (Revised) 2008,FTJK08,Flash appeal,2008,2008-02-01,2008-08-31
+Timor-Leste - Transitional Strategy and Appeal 2008,OTLS08,Other,2008,2008-04-01,2008-12-31
+Uganda 2008,CUGA08,CAP,2008,2008-01-01,2008-12-31
+West Africa 2008,CXWAF08,CAP,2008,2008-01-01,2008-12-31
+Yemen Floods Response Plan (November - April) 2008 [unrevised as of April 2008; appeal closed at 45% funding and unmet requirements reduced to zero] ,FYEM0809,Flash appeal,2008,2008-11-01,2009-04-30
+Zimbabwe 2008,CZWE08,CAP,2008,2008-01-01,2008-12-31
+occupied Palestinian territory 2008,CPSE08,CAP,2008,2008-01-01,2008-12-31
+Bolivia Flash Appeal 2007,FBOL07,Flash appeal,2007,2007-02-22,2007-08-21
+Burkina Faso Floods Flash Appeal 2007,FBFA0708,Flash appeal,2007,2007-11-01,2008-01-31
+Burundi 2007,CBDI07,CAP,2007,2007-01-01,2007-12-31
+Central African Republic 2007,CCAF07,CAP,2007,2007-01-01,2007-12-31
+Chad 2007,CTCD07,CAP,2007,2007-01-01,2007-12-31
+Cote d'Ivoire 2007,CCIV07,CAP,2007,2007-01-01,2007-12-31
+Democratic Republic of the Congo 2007 Humanitarian Action Plan,CCOD07,CAP,2007,2007-01-01,2007-12-31
+Dominican Republic Flash Appeal 2007,FDOM0708,Flash appeal,2007,2007-11-01,2008-05-31
+Ghana Floods Flash Appeal 2007,FGHA0708,Flash appeal,2007,2007-09-01,2008-03-31
+Great Lakes Region 2007,CXGLR07,Regional response plan,2007,2007-01-01,2007-12-31
+Iraq Health Sector Appeal 2007: Meeting the Health Needs of Iraqis Displaced in Neighbouring Countries,OIRQ0708,Other,2007,2007-10-01,2008-12-31
+Korea DPR Flash Appeal: Floods Emergency 2007,FPRK07,Flash appeal,2007,2007-08-28,2007-11-30
+Lebanon Crisis Appeal 2007,OLBN07,Other,2007,2007-06-04,2007-09-03
+Lesotho Drought Flash Appeal 2007,FLSO0708,Flash appeal,2007,2007-07-28,2008-01-28
+Liberia Common Humanitarian Action Plan 2007,CLBR07,CAP,2007,2007-01-01,2007-12-31
+Madagascar Floods Flash Appeal 2007,FMDG07,Flash appeal,2007,2007-03-15,2007-09-15
+Mozambique Floods and Cyclone Flash Appeal 2007,FMOZ07,Flash appeal,2007,2007-03-01,2007-06-30
+Nepal Common Appeal for Transition Support 2007,ONPL07,Other,2007,2007-01-01,2007-12-31
+Nicaragua Flash Appeal 2007,FNIC0708,Flash appeal,2007,2007-09-07,2008-02-28
+North Caucasus Transitional Workplan 2007,ORUS07,Other,2007,2007-01-01,2007-12-31
+Pakistan Cyclone and Floods Flash Appeal 2007,FPAK07,Flash appeal,2007,2007-07-15,2007-10-31
+Peru Earthquake Flash Appeal 2007,FPER0708,Flash appeal,2007,2007-08-24,2008-02-28
+Republic of Congo 2007,CCOG07,CAP,2007,2007-01-01,2007-12-31
+Solomon Islands Earthquake and Tsunami - UNICEF Appeal 2007,OSLB07,Other,2007,2007-04-04,2007-06-30
+Somalia 2007,CSOM07,CAP,2007,2007-01-01,2007-12-31
+Sri Lanka Common Humanitarian Action Plan 2007,OLKA07,Other,2007,2007-01-01,2007-06-30
+Sudan Flash Appeal: Flood Response 2007,FSDN0708,Flash appeal,2007,2007-08-01,2008-01-31
+Sudan Work Plan 2007 (Humanitarian Action component) ,CSDN07,CAP,2007,2007-01-01,2007-12-31
+Swaziland Drought Flash Appeal 2007,FSWZ0708,Flash appeal,2007,2007-07-20,2008-01-20
+Timor-Leste 2007,CTLS07,CAP,2007,2007-01-01,2007-06-30
+Uganda 2007,CUGA07,CAP,2007,2007-01-01,2007-12-31
+Uganda Floods Flash Appeal 2007,FUGA0708,Flash appeal,2007,2007-09-01,2008-03-31
+West Africa 2007,CXWAF07,CAP,2007,2007-01-01,2007-12-31
+Zambia Floods Flash Appeal 2007,FZMB07,Flash appeal,2007,2007-03-15,2007-06-30
+Zimbabwe 2007,CZWE07,CAP,2007,2007-01-01,2007-12-31
+occupied Palestinian territory 2007,CPSE07,CAP,2007,2007-01-01,2007-12-31
+Afghanistan Drought Joint Appeal 2006,OAFG06,Other,2006,2006-07-01,2006-12-31
+Burundi 2006,CBDI06,CAP,2006,2006-01-01,2006-12-31
+Central African Republic 2006,CCAF06,CAP,2006,2006-01-01,2006-12-31
+Chad 2006,CTCD06,CAP,2006,2006-01-01,2006-12-31
+Cote d'Ivoire 2006,CCIV06,CAP,2006,2006-01-01,2006-12-31
+Democratic Republic of the Congo Action Plan 2006,CCOD06,CAP,2006,2006-01-01,2006-12-31
+Ethiopia 2006 Humanitarian Appeal (Joint Govt-NGO-UN),OETH06,Other,2006,2006-01-01,2006-12-31
+Ethiopia Floods Joint Appeal 2006,OETH06a,Other,2006,2006-08-25,2006-11-25
+Ethiopia: 2006 Govt-UN Joint Emergency Flood Appeal for Somali Region,OETH0607,Other,2006,2006-11-23,2007-01-22
+Great Lakes Region 2006,CXGLR06,CAP,2006,2006-01-01,2006-12-31
+Guinea 2006,CGIN06,CAP,2006,2006-01-01,2006-12-31
+Guinea-Bissau 2006 ,FGNB06,Flash appeal,2006,2006-05-01,2006-11-30
+Horn of Africa 2006 ,CXHAF06,Regional response plan,2006,2006-01-01,2006-12-31
+Indonesia Earthquake Response Plan 2006,FIDN06,Flash appeal,2006,2006-05-01,2006-11-30
+Kenya 2006,FKEN0607,Flash appeal,2006,2006-10-16,2007-04-15
+Kenya: 2006 November Floods,FKEN06,Flash appeal,2006,2006-11-22,2006-12-31
+Lebanon Crisis 2006,FLBN06,Flash appeal,2006,2006-07-24,2006-10-23
+Liberia 2006,CLBR06,CAP,2006,2006-01-01,2006-12-31
+Nepal 2005-2006,CNPL0506,CAP,2006,2005-10-01,2006-12-31
+North Caucasus Transitional Workplan 2006,ORUS06,Other,2006,2006-01-01,2006-12-31
+Philippines 2006 Typhoon Appeal,OPHL0607,Other,2006,2006-12-15,2007-12-31
+Republic of Congo 2006,CCOG06,CAP,2006,2006-01-01,2006-12-31
+Somalia 2006,CSOM06,CAP,2006,2006-01-01,2006-12-31
+Somalia: 2006 Flood Response Plan,FSOM0607,Flash appeal,2006,2006-12-05,2007-03-05
+Sri Lanka Common Humanitarian Action Plan 2006,OLKA06,Other,2006,2006-09-01,2006-12-31
+Sudan Work Plan 2006 (Humanitarian Action component),CSDN06,CAP,2006,2006-01-01,2006-12-31
+Tajikistan Earthquake 2006,OTJK06,Other,2006,2006-07-01,2006-12-31
+Timor-Leste 2006,FTLS06,Flash appeal,2006,2006-06-01,2006-12-31
+Uganda 2006,CUGA06,CAP,2006,2006-01-01,2006-12-31
+West Africa 2006,CXWAF06,CAP,2006,2006-01-01,2006-12-31
+Zimbabwe 2006,CZWE06,CAP,2006,2006-01-01,2006-12-31
+occupied Palestinian territory 2006,CPSE06,CAP,2006,2006-01-01,2006-12-31
+Angola Marburg VHF  2005,FAGO05,Flash appeal,2005,2005-04-01,2005-06-30
+Benin  2005,FBEN05,Flash appeal,2005,2005-05-01,2005-10-31
+Burundi 2005,CBDI05,CAP,2005,2005-01-01,2005-12-31
+Central African Republic 2005,CCAF05,CAP,2005,2005-01-01,2005-12-31
+Chad 2005,CTCD05,CAP,2005,2005-01-01,2005-12-31
+Chechnya and Neighbouring Republics (RF) 2005,CRUS05,CAP,2005,2005-01-01,2005-12-31
+Cote d'Ivoire 2005,CCIV05,CAP,2005,2005-01-01,2005-12-31
+Democratic Republic of the Congo 2005,CCOD05,CAP,2005,2005-01-01,2005-12-31
+Djibouti Drought  2005,FDJI05,Flash appeal,2005,2005-04-01,2005-10-31
+El Salvador Joint UN Agency Appeal 2005,OSLV05,Other,2005,2005-10-01,2005-12-31
+Eritrea 2005,CERI05,CAP,2005,2005-01-01,2005-12-31
+Great Lakes Region 2005,CXGLR05,CAP,2005,2005-01-01,2005-12-31
+Guatemala  2005,FGTM0506,Flash appeal,2005,2005-10-01,2006-03-31
+Guinea 2005,CGIN05,CAP,2005,2005-01-01,2005-12-31
+Guyana  2005,FGUY05,Flash appeal,2005,2005-02-01,2005-08-01
+Indian Ocean Earthquake-Tsunami  2005,FXINDTSU05,Flash appeal,2005,2005-01-01,2005-06-30
+Malawi  2005,FMWI0506,Flash appeal,2005,2005-09-01,2006-03-31
+Niger  2005,FNER05,Flash appeal,2005,2005-06-01,2005-09-30
+Republic of Congo 2005,CCOG05,CAP,2005,2005-01-01,2005-12-31
+Somalia 2005,CSOM05,CAP,2005,2005-01-01,2005-12-31
+South Asia Earthquake 2005,FXSASIA0506,Flash appeal,2005,2005-10-11,2006-04-10
+Sudan - Humanitarian & Recovery Components of the 2005 Work Plan,CSDN05,CAP,2005,2005-01-01,2005-12-31
+Uganda 2005,CUGA05,CAP,2005,2005-01-01,2005-12-31
+West Africa 2005,CXWAF05,CAP,2005,2005-01-01,2005-12-31
+West and Central Africa Region Cholera 2005,FXWAF0506,Flash appeal,2005,2005-11-01,2006-05-31
+occupied Palestinian territory 2005,CPSE05,CAP,2005,2005-01-01,2005-12-31
+Afghanistan UN-Government Drought Appeal 2004,OAFG04,Other,2004,2004-09-01,2004-12-31
+Angola 2004,CAGO04,CAP,2004,2004-01-01,2004-12-31
+Bangladesh  2004,FBGD0405,Flash appeal,2004,2004-08-01,2005-01-31
+Bolivia  2004,FBOL0405,Flash appeal,2004,2004-11-01,2005-05-31
+Burundi 2004,CBDI04,CAP,2004,2004-01-01,2004-12-31
+Central African Republic 2004,CCAF04,CAP,2004,2004-01-01,2004-12-31
+Chad 2004,CTCD04,CAP,2004,2004-03-01,2004-12-31
+Chechnya and Neighbouring Republics (RF) 2004,CRUS04,CAP,2004,2004-01-01,2004-12-31
+Cote d'Ivoire + 3 2004,CCIV04,CAP,2004,2004-01-01,2004-12-31
+DPR of Korea 2004,CPRK04,CAP,2004,2004-01-01,2004-12-31
+Democratic Republic of the Congo 2004,CCOD04,CAP,2004,2004-01-01,2004-12-31
+Eritrea 2004,CERI04,CAP,2004,2004-01-01,2004-12-31
+Great Lakes Region 2004,CXGLR04,CAP,2004,2004-01-01,2004-12-31
+Grenada  2004,FGRD0405,Flash appeal,2004,2004-09-01,2005-03-31
+Guinea 2004,CGIN04,CAP,2004,2004-01-01,2004-12-31
+Haiti  2004,FHTI04,Flash appeal,2004,2004-03-01,2004-08-31
+Haiti Floods  2004,FHTI0405,Flash appeal,2004,2004-10-01,2005-03-31
+Indonesia 2004 ,CIDN04,CAP,2004,2004-01-01,2004-12-31
+Islamic Republic of Iran 2004 ,FIRN04,Flash appeal,2004,2004-01-01,2004-03-31
+Kenya  2004,FKEN04,Flash appeal,2004,2004-07-01,2004-12-31
+Liberia 2004,CLBR04,CAP,2004,2004-01-01,2004-12-31
+Madagascar  2004,FMDG04,Flash appeal,2004,2004-03-19,2004-06-19
+Philippines  2004,FPHL0405,Flash appeal,2004,2004-12-15,2005-03-15
+Sierra Leone 2004,CSLE04,CAP,2004,2004-01-01,2004-12-31
+Somalia 2004,CSOM04,CAP,2004,2004-01-01,2004-12-31
+Sudan 2004,CSDN04,CAP,2004,2004-01-01,2004-12-31
+Tajikistan 2004,CTJK04,CAP,2004,2004-01-01,2004-12-31
+Tanzania (United Republic of) 2004,CTZA04,CAP,2004,2004-01-01,2004-12-31
+Uganda 2004,CUGA04,CAP,2004,2004-01-01,2004-12-31
+West Africa Sub-Regional 2004,CXWAF04,CAP,2004,2004-01-01,2004-12-31
+Zimbabwe 2004,CZWE04,CAP,2004,2004-01-01,2004-12-31
+occupied Palestinian territory 2004,CPSE04,CAP,2004,2004-01-01,2004-12-31
+Afghanistan TAPA 2003,OAFG03,Other,2003,2003-01-01,2003-12-31
+Angola 2003,CAGO03,CAP,2003,2003-01-01,2003-12-31
+Burundi 2003,CBDI03,CAP,2003,2003-01-01,2003-12-31
+Central African Republic  2003,FCAF03,Flash appeal,2003,2003-04-01,2003-06-30
+Chechnya and Neighbouring Republics (RF) 2003,CRUS03,CAP,2003,2003-01-01,2003-12-31
+Colombia (HAP) 2003,OCOL03,Other,2003,2003-01-01,2003-12-31
+Cote d'Ivoire + 5 2003,CCIV03,CAP,2003,2003-04-01,2003-12-31
+Côte d'Ivoire and the West Africa Sub-Region 2002-2003 ,FCIV0203,Flash appeal,2003,2002-11-01,2003-01-31
+DPR of Korea 2003,CPRK03,CAP,2003,2003-01-01,2003-12-31
+Democratic Republic of the Congo 2003,CCOD03,CAP,2003,2003-01-01,2003-12-31
+Eritrea 2003,CERI03,CAP,2003,2003-01-01,2003-12-31
+Great Lakes Region and Central Africa 2003,CXGLR03,CAP,2003,2003-01-01,2003-12-31
+Guinea 2003,CGIN03,CAP,2003,2003-01-01,2003-12-31
+Haiti (PIR) 2003,OHTI03,Other,2003,2003-03-01,2003-08-31
+Humanitarian Crisis in Southern Africa - LESOTHO (July 2003 - June 2004),CLSO0304,CAP,2003,2003-07-01,2004-06-30
+Humanitarian Crisis in Southern Africa - MALAWI (July 2003 - June 2004),CMWI03,CAP,2003,2003-07-01,2003-06-30
+Humanitarian Crisis in Southern Africa - MOZAMBIQUE (July 2003 - June 2004),CMOZ0304,CAP,2003,2003-07-01,2004-06-30
+Humanitarian Crisis in Southern Africa - REGION (July 2003 - June 2004),CXSAF0304,CAP,2003,2003-07-01,2004-06-30
+Humanitarian Crisis in Southern Africa - SWAZILAND (July 2003 - June 2004),CSWZ0304,CAP,2003,2003-07-01,2004-06-30
+Humanitarian Crisis in Southern Africa - ZAMBIA (July 2003 - June 2004),CZMB0304,CAP,2003,2003-07-01,2004-06-30
+Humanitarian Crisis in Southern Africa - ZIMBABWE (July - December 2003),CZWE03,CAP,2003,2003-07-01,2003-12-31
+Indonesia 2003,CIDN03,CAP,2003,2003-01-01,2003-12-31
+Iraq Crisis 2003,CIRQ03,CAP,2003,2003-04-01,2003-12-31
+Liberia 2003,CLBR03,CAP,2003,2003-01-01,2003-12-31
+Republic of Congo 2003,OCOG03,Other,2003,2003-01-01,2003-12-31
+Sierra Leone 2003,CSLE03,CAP,2003,2003-01-01,2003-12-31
+Somalia 2003,CSOM03,CAP,2003,2003-01-01,2003-12-31
+Sudan 2003,CSDN03,CAP,2003,2003-01-01,2003-12-31
+Tajikistan 2003,CTJK03,CAP,2003,2003-01-01,2003-12-31
+Uganda 2003,CUGA03,CAP,2003,2003-01-01,2003-12-31
+occupied Palestinian territory 2003,CPSE03,CAP,2003,2003-01-01,2003-12-31
+Afghanistan 2002 (ITAP for the Afghan People),CAFG0102,CAP,2002,2001-10-01,2002-12-31
+Angola 2002,CAGO02,CAP,2002,2002-01-01,2002-12-31
+Burundi 2002,CBDI02,CAP,2002,2002-01-01,2002-12-31
+DPR of Korea 2002,CPRK02,CAP,2002,2002-01-01,2002-12-31
+Democratic Republic of the Congo 2002,CCOD02,CAP,2002,2002-01-01,2002-12-31
+Eritrea 2002,CERI02,CAP,2002,2002-01-01,2002-12-31
+Great Lakes Region and Central Africa 2002,CXGLR02,CAP,2002,2002-01-01,2002-12-31
+Guinea 2002,CGIN02,CAP,2002,2002-01-01,2002-12-31
+Humanitarian Crisis in Southern Africa 2002 - LESOTHO,CLSO0203,CAP,2002,2002-07-01,2003-06-30
+Humanitarian Crisis in Southern Africa 2002 - MALAWI,CMWI0203,CAP,2002,2002-07-01,2003-06-30
+Humanitarian Crisis in Southern Africa 2002 - REGION,CXSAF0203,CAP,2002,2002-07-01,2003-06-30
+Humanitarian Crisis in Southern Africa 2002 - SWAZILAND,CSWZ0203,CAP,2002,2002-07-01,2003-07-30
+Humanitarian Crisis in Southern Africa 2002 - ZAMBIA,CZMB0203,CAP,2002,2002-07-01,2003-06-30
+Humanitarian Crisis in Southern Africa 2002 - ZIMBABWE,CZWE0203,CAP,2002,2002-07-01,2003-06-30
+Indonesia 2002,CIDN02,CAP,2002,2002-01-01,2002-12-31
+Joint Appeal - Solutions for East Timorese Refugees,OIDN02,Other,2002,2002-01-01,2002-12-31
+Joint Strategy - Returned IDPs in Sri Lanka 2002,OLKA02,Other,2002,2002-01-01,2002-12-31
+Kenya Drought Donor Alert 2002,OKEN02,Other,2002,2002-01-01,2002-12-31
+Liberia 2002,CLBR02,CAP,2002,2002-01-01,2002-12-31
+North Caucasus 2002,CRUS02,CAP,2002,2002-01-01,2002-12-31
+Republic of Congo 2002,OCOG02,Other,2002,2002-01-01,2002-12-31
+Sierra Leone 2002,CSLE02,CAP,2002,2002-01-01,2002-12-31
+Somalia 2002,CSOM02,CAP,2002,2002-01-01,2002-12-31
+Southeastern Europe 2002,CXSEUR02,CAP,2002,2002-01-01,2002-12-31
+Sudan 2002,CSDN02,CAP,2002,2002-01-01,2002-12-31
+Tajikistan 2002,CTJK02,CAP,2002,2002-01-01,2002-12-31
+Uganda 2002,CUGA02,CAP,2002,2002-01-01,2002-12-31
+West Africa 2002,CXWAF02,CAP,2002,2002-01-01,2002-12-31
+Afghanistan 2001,CAFG01,CAP,2001,2001-01-01,2001-09-30
+Angola 2001,CAGO01,CAP,2001,2001-01-01,2001-12-31
+Burundi 2001,CBDI01,CAP,2001,2001-01-01,2001-12-31
+DPR of Korea 2001,CPRK01,CAP,2001,2001-01-01,2001-12-31
+Democratic Republic of the Congo 2001,CCOD01,CAP,2001,2001-01-01,2001-12-31
+Djibouti Drought 2001,ODJI01,Other,2001,2001-01-01,2001-12-31
+Drought in the Horn of Africa 2001,OXHAF01,Other,2001,2001-01-01,2001-12-31
+Eritrea 2001,CERI01,CAP,2001,2001-01-01,2001-12-31
+Ethiopia 2001,CETH01,CAP,2001,2001-01-01,2001-12-31
+Great Lakes Region and Central Africa 2001,CXGLR01,CAP,2001,2001-01-01,2001-12-31
+Kenya Drought 2001,OKEN01,Other,2001,2001-01-01,2001-12-31
+Maluku Crisis 2001,CIDN01,CAP,2001,2001-01-01,2001-12-31
+Northern Caucasus (Russian Federation) 2001,CRUS01,CAP,2001,2001-01-01,2001-12-31
+Republic of Congo 2001,CCOG01,CAP,2001,2001-01-01,2001-12-31
+Sierra Leone 2001,CSLE01,CAP,2001,2001-01-01,2001-12-31
+Somalia 2001,CSOM01,CAP,2001,2001-01-01,2001-12-31
+Southeastern Europe 2001,CXSEUR01,CAP,2001,2001-01-01,2001-12-31
+Sudan 2001,CSDN01,CAP,2001,2001-01-01,2001-12-31
+Tajikistan 2001,CTJK01,CAP,2001,2001-01-01,2001-12-31
+Tanzania (United Republic of) 2001,CTZA01,CAP,2001,2001-01-01,2001-12-31
+Tanzania (United Republic of) Drought 2001,OTZA01,Other,2001,2001-01-01,2001-12-31
+Uganda 2001,CUGA01,CAP,2001,2001-01-01,2001-12-31
+West Africa 2001,CXWAF01,CAP,2001,2001-01-01,2001-12-31
+Angola 2000,CAGO00,CAP,2000,2000-01-01,2000-12-31
+Burundi 2000,CBDI00,CAP,2000,2000-01-01,2000-12-31
+DPR of Korea 2000,CPRK00,CAP,2000,2000-01-01,2000-12-31
+Democratic Republic of the Congo 2000,CCOD00,CAP,2000,2000-01-01,2000-12-31
+Great Lakes Region and Central Africa 2000,CXGLR00,CAP,2000,2000-01-01,2000-12-31
+Maluku Crisis 2000,CIDN0099,CAP,2000,2000-03-01,1999-12-31
+Republic of Congo 2000,CCOG00,CAP,2000,2000-01-01,2000-12-31
+Sierra Leone 2000,CSLE00,CAP,2000,2000-01-01,2000-12-31
+Somalia 2000,CSOM00,CAP,2000,2000-01-01,2000-12-31
+Southeastern Europe 2000,CXSEUR00,CAP,2000,2000-01-01,2000-12-31
+Sudan 2000,CSDN00,CAP,2000,2000-01-01,2000-12-31
+Tajikistan 2000,CTJK00,CAP,2000,2000-01-01,2000-12-31
+Tanzania (United Republic of) 2000,CTZA00,CAP,2000,2000-01-01,2000-12-31
+Uganda 2000,CUGA00,CAP,2000,2000-01-01,2000-12-31
+East Timor 1999,CTLS9900,CAP,1999,1999-10-01,2000-12-31
+Northern Caucasus (Russian Federation) 1999,CRUS9900,CAP,1999,1999-12-01,2000-12-31
+West Timor 1999,CIDN9900,CAP,1999,1999-10-01,2000-12-31

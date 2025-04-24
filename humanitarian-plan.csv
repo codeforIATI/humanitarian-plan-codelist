@@ -4,7 +4,7 @@ Afghanistan Situation Regional Refugee Response Plan 2025,RIRNPAK25,Regional res
 Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2025,OBGD25,Other,2025,2025-01-01,2025-03-31
 Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,HBFA25,Humanitarian needs and response plan,2025,2025-01-01,2025-12-31
 Cameroon Humanitarian Response Plan 2025,HCMR25,Humanitarian response plan,2025,2025-01-01,2025-12-31
-Colombia Necesidades Humanitarias y Plan de Respuesta 2025,HCOL25,Humanitarian needs and response plan,2025,2025-01-01,2025-12-31
+Colombia Necesidades Humanitarias y Plan de Respuesta 2025,undefinedCOL25,Humanitarian needs and response plan,2025,2025-01-01,2025-12-31
 Democratic Republic of the Congo Regional Refugee Response Plan 2025,RDRC_RRP25,Regional response plan,2025,2025-01-01,2025-12-31
 El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,undefinedSLV25,Humanitarian needs and response plan,2025,2025-01-01,2025-12-31
 Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,Flash appeal,2025,2025-01-01,2025-12-31
@@ -25,7 +25,7 @@ Nigeria Humanitarian Needs and Response Plan 2025,undefinedNGA25,Humanitarian ne
 Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,OPHL25,Other,2025,2025-01-01,2025-01-31
 Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2025,RRHOAY25,Regional response plan,2025,2025-01-01,2025-12-31
 Rohingya Humanitarian Crisis Joint Response Plan 2025,RBGD25,Regional response plan,2025,2025-01-01,2025-12-31
-République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,HCAF25,Humanitarian needs and response plan,2025,2025-01-01,2025-12-31
+République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,undefinedCAF25,Humanitarian needs and response plan,2025,2025-01-01,2025-12-31
 République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,Humanitarian needs and response plan,2025,2025-01-01,2025-12-31
 Somalia Humanitarian Needs and Response Plan 2025,HSOM25,Humanitarian needs and response plan,2025,2025-01-01,2025-12-31
 South Sudan Humanitarian Needs and Response Plan 2025,undefinedSSD25,Humanitarian needs and response plan,2025,2025-01-01,2025-12-31
@@ -40,7 +40,7 @@ Ukraine Situation Regional Refugee Response Plan 2025,RUKRN25,Regional response 
 Venezuela Plan de Respuesta Humanitaria 2025,HVEN25,Humanitarian response plan,2025,2025-01-01,2025-12-31
 Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,RREG25,Regional response plan,2025,2025-01-01,2025-12-31
 Viet Nam Joint Response Plan for Typhoon Yagi and Floods 2025,OVNM25,Other,2025,2025-01-01,2025-06-30
-Yemen Humanitarian Needs and Response Plan 2025,HYEM25,Humanitarian needs and response plan,2025,2025-01-01,2025-12-31
+Yemen Humanitarian Needs and Response Plan 2025,undefinedYEM25,Humanitarian needs and response plan,2025,2025-01-01,2025-12-31
 Zambia Drought Flash Appeal 2025,FZMB25,Flash appeal,2025,2025-01-01,2025-05-31
 Zimbabwe Drought Flash Appeal 2025,FZWE25,Flash appeal,2025,2025-01-01,2025-06-01
 Afghanistan Humanitarian Needs and Response Plan 2024,HAFG24,Humanitarian needs and response plan,2024,2024-01-01,2024-12-31
@@ -466,36 +466,36 @@ Ukraine 2015,HUKR15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Yemen 2015,HYEM15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 occupied Palestinian territory 2015,HPSE15,Humanitarian response plan,2015,2015-01-01,2015-12-31
 Afghanistan Strategic Response Plan 2014,HAFG14,Strategic response plan,2014,2014-01-01,2014-12-31
-Burkina Faso Plan de Réponse Stratégique 2014,HBFA1314,Humanitarian response plan,2014,2013-01-01,2014-12-31
-Cameroun Plan de Réponse Stratégique 2014,HCMR14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-Djibouti Strategic Response Plan 2014,HDJI14,Humanitarian response plan,2014,2014-01-01,2014-12-31
+Burkina Faso Plan de Réponse Stratégique 2014,HBFA1314,Strategic response plan,2014,2013-01-01,2014-12-31
+Cameroun Plan de Réponse Stratégique 2014,HCMR14,Strategic response plan,2014,2014-01-01,2014-12-31
+Djibouti Strategic Response Plan 2014,HDJI14,Strategic response plan,2014,2014-01-01,2014-12-31
 Ebola Outbreak Response Plan 2014,OXEBOLA1415,Regional response plan,2014,2014-10-01,2015-06-30
-Gambia Strategic Response Plan 2014,HGMB14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-Haiti Strategic Response Plan 2014,HHTI14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-Iraq Strategic Response Plan 2014,HIRQ14,Humanitarian response plan,2014,2014-04-01,2014-12-31
-Mali Plan de Réponse Stratégique 2014,HMLI14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-Mauritanie Plan de Réponse Stratégique 2014,HMRT14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-Myanmar Strategic Response Plan 2014,HMMR14,Humanitarian response plan,2014,2014-02-28,2014-12-31
-Niger Plan de Réponse Stratégique 2014,HNER14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-Nigeria Strategic Response Plan 2014,HNGA14,Humanitarian response plan,2014,2014-01-01,2014-12-31
+Gambia Strategic Response Plan 2014,HGMB14,Strategic response plan,2014,2014-01-01,2014-12-31
+Haiti Strategic Response Plan 2014,HHTI14,Strategic response plan,2014,2014-01-01,2014-12-31
+Iraq Strategic Response Plan 2014,HIRQ14,Strategic response plan,2014,2014-04-01,2014-12-31
+Mali Plan de Réponse Stratégique 2014,HMLI14,Strategic response plan,2014,2014-01-01,2014-12-31
+Mauritanie Plan de Réponse Stratégique 2014,HMRT14,Strategic response plan,2014,2014-01-01,2014-12-31
+Myanmar Strategic Response Plan 2014,HMMR14,Strategic response plan,2014,2014-02-28,2014-12-31
+Niger Plan de Réponse Stratégique 2014,HNER14,Strategic response plan,2014,2014-01-01,2014-12-31
+Nigeria Strategic Response Plan 2014,HNGA14,Strategic response plan,2014,2014-01-01,2014-12-31
 Philippines Bohol Earthquake Flash Appeal 2014,FPHL1314,Flash appeal,2014,2013-10-22,2014-04-22
-Philippines Typhoon Haiyan Strategic Response Plan 2014,HPHL1314,Humanitarian response plan,2014,2013-11-08,2014-05-07
-Philippines Zamboanga Crisis Flash Appeal 2014,HPHL1314a,Humanitarian response plan,2014,2013-10-01,2014-08-31
-République Centrafricaine Plan de Réponse Stratégique 2014,HCAF14,Humanitarian response plan,2014,2014-01-01,2014-12-31
+Philippines Typhoon Haiyan Strategic Response Plan 2014,HPHL1314,Strategic response plan,2014,2013-11-08,2014-05-07
+Philippines Zamboanga Crisis Flash Appeal 2014,HPHL1314a,Flash appeal,2014,2013-10-01,2014-08-31
+République Centrafricaine Plan de Réponse Stratégique 2014,HCAF14,Strategic response plan,2014,2014-01-01,2014-12-31
 République Démocratique du Congo Plan de Réponse Stratégique 2014,HCOD1415,Strategic response plan,2014,2014-01-01,2015-04-30
-République du Congo Plan de Réponse 2014,HCOG14,Humanitarian response plan,2014,2014-04-10,2014-12-31
+République du Congo Plan de Réponse 2014,HCOG14,Other,2014,2014-04-10,2014-12-31
 Sahel Region Strategic Response Plan 2014,HXSHL14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-Somalia Strategic Response Plan 2014,HSOM14,Humanitarian response plan,2014,2014-01-01,2014-12-31
+Somalia Strategic Response Plan 2014,HSOM14,Strategic response plan,2014,2014-01-01,2014-12-31
 South Sudan Regional Refugee Response Plan 2014,RXSSDREG14,Regional response plan,2014,2014-01-01,2014-12-31
-South Sudan Strategic Response Plan 2014,HSSD14,Humanitarian response plan,2014,2014-01-01,2014-06-30
-Sudan Strategic Response Plan 2014,HSDN14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-Syria Humanitarian Assistance Response Plan 2014,HSYR1314,Humanitarian response plan,2014,2013-11-09,2014-12-31
+South Sudan Strategic Response Plan 2014,HSSD14,Strategic response plan,2014,2014-01-01,2014-06-30
+Sudan Strategic Response Plan 2014,HSDN14,Strategic response plan,2014,2014-01-01,2014-12-31
+Syria Humanitarian Assistance Response Plan 2014,HSYR1314,Strategic response plan,2014,2013-11-09,2014-12-31
 Syria Regional Refugee Response Plan 2014,RXSYRREG14,Regional response plan,2014,2014-01-02,2014-12-31
-Sénégal Plan de Réponse Stratégique 2014,HSEN14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-Tchad Plan de Réponse Stratégique 2014,HTCD14,Humanitarian response plan,2014,2014-01-01,2014-12-31
+Sénégal Plan de Réponse Stratégique 2014,HSEN14,Strategic response plan,2014,2014-01-01,2014-12-31
+Tchad Plan de Réponse Stratégique 2014,HTCD14,Strategic response plan,2014,2014-01-01,2014-12-31
 Ukraine Preliminary Response Plan 2014,FUKR14,Flash appeal,2014,2014-08-15,2014-12-31
-Yemen Strategic Response Plan 2014,HYEM14,Humanitarian response plan,2014,2014-01-01,2014-12-31
-occupied Palestinian territory Strategic Response Plan 2014,HPSE14,Humanitarian response plan,2014,2014-01-01,2014-12-31
+Yemen Strategic Response Plan 2014,HYEM14,Strategic response plan,2014,2014-01-01,2014-12-31
+occupied Palestinian territory Strategic Response Plan 2014,HPSE14,Strategic response plan,2014,2014-01-01,2014-12-31
 Afghanistan 2013,CAFG13,Consolidated appeals process,2013,2013-01-01,2013-12-31
 Burkina Faso 2013,CBFA13,Consolidated appeals process,2013,2013-01-01,2013-12-31
 Central African Republic 2013,CCAF13,Consolidated appeals process,2013,2013-01-01,2013-12-31
